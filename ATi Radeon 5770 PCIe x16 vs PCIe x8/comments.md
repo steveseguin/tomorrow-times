@@ -1,7 +1,13 @@
+**Anonymous** - *2010-05-02T11:12:44.684-04:00*
+
 Thanks for the info.  
 Was looking around to see a few examples of the "real world" difference between x8/x16 since i am considering buying a p55 mobo.
 
+**Anonymous** - *2011-08-20T06:44:34.349-04:00*
+
 great article, very informative, i was wondering if 8x made a difference. Do you have an example of 16x/4x? The 16x/8x board is about $50 more than the 16x/4x board.
+
+**Steve** - *2011-09-04T17:20:16.279-04:00*
 
 IMO, 16x/4x is lesser than 8x/8x, but the different would not be dramatic with single monitor setups.  
   

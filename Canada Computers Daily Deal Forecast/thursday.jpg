@@ -96,7 +96,7 @@
 
 <body class="kaxsdc page-index    blackvember" data-event="load" style="padding-top:150px;">
     <!-- Moneris Kount -->
-  <script type="text/javascript" src="https://ssl.kaptcha.com/collect/sdk?m=760046&s=5slqq6fe2btr6ks2oh9jhr2c53000275"></script>
+  <script type="text/javascript" src="https://ssl.kaptcha.com/collect/sdk?m=760046&s=cb70lg65u8ula0et7fh7c7p3f5386931"></script>
   <!-- End Moneris Kount -->
       <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJHJB9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -4437,29 +4437,29 @@ window.onscroll = function() {
 <div class="home-page">
 		<div class="main-carousel hero-banner" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 4000, "lazyLoad": true }'>
   <!-- Banner A size: 1920pxW x 400pxH -->
-        <a class="h-100 w-100 leaderboardA4"  href="/listing/intel-component-151223" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 0  - Intel - Component']);" data-track-content data-content-name="Banner A" data-content-target="/listing/intel-component-151223">
-      <div class="a1 leaderboardA4" style="background-image:url('/marketing/images/231215/en/A4.jpg?v=5')" data-content-piece="Banner 0 - Intel - Component"></div>
+        <a class="h-100 w-100 leaderboardA8"  href="/listing/asus-obpg-holiday-231215" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 0  - ASUS OPBG']);" data-track-content data-content-name="Banner A" data-content-target="/listing/asus-obpg-holiday-231215">
+      <div class="a1 leaderboardA8" style="background-image:url('/marketing/images/231215/en/A8.jpg?v=5')" data-content-piece="Banner 0 - ASUS OPBG"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA3"  href="/search/results_details.php?itemcode=SWMIF00122,SWMIF00123" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 1  - Microsoft Office']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=SWMIF00122,SWMIF00123">
-      <div class="a1 leaderboardA3" style="background-image:url('/marketing/images/231215/en/A3.jpg?v=5')" data-content-piece="Banner 1 - Microsoft Office"></div>
+         <a class="h-100 w-100 leaderboardA7"  href="/gomobile?cPath=5659" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 1  - CC Mobile']);" data-track-content data-content-name="Banner A" data-content-target="/gomobile?cPath=5659">
+      <div class="a1 leaderboardA7" style="background-image:url('/marketing/images/231215/en/A7.jpg?v=5')" data-content-piece="Banner 1 - CC Mobile"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA6"  href="/product_info.php?item_id=243681&cPath=710_4418" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 2  - huawei']);" data-track-content data-content-name="Banner A" data-content-target="/product_info.php?item_id=243681&cPath=710_4418">
-      <div class="a1 leaderboardA6" style="background-image:url('/marketing/images/231215/en/A6.jpg?v=5')" data-content-piece="Banner 2 - huawei"></div>
+         <a class="h-100 w-100 leaderboardA3"  href="/search/results_details.php?itemcode=SWMIF00122,SWMIF00123" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 2  - Microsoft Office']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=SWMIF00122,SWMIF00123">
+      <div class="a1 leaderboardA3" style="background-image:url('/marketing/images/231215/en/A3.jpg?v=5')" data-content-piece="Banner 2 - Microsoft Office"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA7"  href="/gomobile?cPath=5659" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 3  - CC Mobile']);" data-track-content data-content-name="Banner A" data-content-target="/gomobile?cPath=5659">
-      <div class="a1 leaderboardA7" style="background-image:url('/marketing/images/231215/en/A7.jpg?v=5')" data-content-piece="Banner 3 - CC Mobile"></div>
+         <a class="h-100 w-100 leaderboardA2"  href="/search/results_details.php?itemcode=MTACE00417,MTACE00459,MTACE00433,MTACE00473,MTACE00482" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 3  - Acer']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=MTACE00417,MTACE00459,MTACE00433,MTACE00473,MTACE00482">
+      <div class="a1 leaderboardA2" style="background-image:url('/marketing/images/231215/en/A2.jpg?v=5')" data-content-piece="Banner 3 - Acer"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA8"  href="/listing/asus-obpg-holiday-231215" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 4  - ASUS OPBG']);" data-track-content data-content-name="Banner A" data-content-target="/listing/asus-obpg-holiday-231215">
-      <div class="a1 leaderboardA8" style="background-image:url('/marketing/images/231215/en/A8.jpg?v=5')" data-content-piece="Banner 4 - ASUS OPBG"></div>
+         <a class="h-100 w-100 leaderboardA5"  href="/search/results_details.php?itemcode=LPMSI00598,LPASU00830" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 4  - Intel']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=LPMSI00598,LPASU00830">
+      <div class="a1 leaderboardA5" style="background-image:url('/marketing/images/231215/en/A5.jpg?v=5')" data-content-piece="Banner 4 - Intel"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA5"  href="/search/results_details.php?itemcode=LPMSI00598,LPASU00830" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 5  - Intel']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=LPMSI00598,LPASU00830">
-      <div class="a1 leaderboardA5" style="background-image:url('/marketing/images/231215/en/A5.jpg?v=5')" data-content-piece="Banner 5 - Intel"></div>
+         <a class="h-100 w-100 leaderboardA1"  href="/listing/msi-laptop-151223" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 5  - MSI']);" data-track-content data-content-name="Banner A" data-content-target="/listing/msi-laptop-151223">
+      <div class="a1 leaderboardA1" style="background-image:url('/marketing/images/231215/en/A1.jpg?v=5')" data-content-piece="Banner 5 - MSI"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA1"  href="/listing/msi-laptop-151223" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 6  - MSI']);" data-track-content data-content-name="Banner A" data-content-target="/listing/msi-laptop-151223">
-      <div class="a1 leaderboardA1" style="background-image:url('/marketing/images/231215/en/A1.jpg?v=5')" data-content-piece="Banner 6 - MSI"></div>
+         <a class="h-100 w-100 leaderboardA6"  href="/product_info.php?item_id=243681&cPath=710_4418" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 6  - huawei']);" data-track-content data-content-name="Banner A" data-content-target="/product_info.php?item_id=243681&cPath=710_4418">
+      <div class="a1 leaderboardA6" style="background-image:url('/marketing/images/231215/en/A6.jpg?v=5')" data-content-piece="Banner 6 - huawei"></div>
       </a>
-         <a class="h-100 w-100 leaderboardA2"  href="/search/results_details.php?itemcode=MTACE00417,MTACE00459,MTACE00433,MTACE00473,MTACE00482" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 7  - Acer']);" data-track-content data-content-name="Banner A" data-content-target="/search/results_details.php?itemcode=MTACE00417,MTACE00459,MTACE00433,MTACE00473,MTACE00482">
-      <div class="a1 leaderboardA2" style="background-image:url('/marketing/images/231215/en/A2.jpg?v=5')" data-content-piece="Banner 7 - Acer"></div>
+         <a class="h-100 w-100 leaderboardA4"  href="/listing/intel-component-151223" target="_self" onclick="_gaq.push(['_trackEvent', 'Home Page - Banner', 'Banner A', 'Banner 7  - Intel - Component']);" data-track-content data-content-name="Banner A" data-content-target="/listing/intel-component-151223">
+      <div class="a1 leaderboardA4" style="background-image:url('/marketing/images/231215/en/A4.jpg?v=5')" data-content-piece="Banner 7 - Intel - Component"></div>
       </a>
    </div>
 	<main class="container position-relative bg-home-page">
@@ -5872,7 +5872,7 @@ window.onscroll = function() {
     var sessionStorageKeyGroup = "home-power-deals-" + sliderNo + "-" + viewCnt;
     var currentTime = new Date();
     var sessionStorageDateTime = currentTime.getFullYear().toString() + currentTime.getMonth().toString() + currentTime.getDate().toString() + currentTime.getHours().toString();
-    //let sessionStorageKey = "home-power-deals-" + sliderNo + "-" + viewCnt + "-en-2023122109";
+    //let sessionStorageKey = "home-power-deals-" + sliderNo + "-" + viewCnt + "-en-2023122110";
     //if (auto_slider == false) {
       var sessionStorageDateTime = currentTime.getFullYear().toString() + currentTime.getMonth().toString() + currentTime.getDate().toString() + currentTime.getHours().toString() + currentTime.getMinutes().toString();
       sessionStorageKey = "home-power-deals-" + sliderNo + "-" + viewCnt + "-en-" + sessionStorageDateTime + "";

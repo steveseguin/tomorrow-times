@@ -1,42 +1,68 @@
+**Unknown** - *2006-12-13T22:19:00.000-05:00*
+
 Perfect. Wow.   
   
 So say can you press Windows Key+ R fo rhte run box?
 
+**Anonymous** - *2006-12-13T22:19:00.001-05:00*
+
 Or you could just go into safe mode with a DOS prompt; type explorer.exe and have a full safe mode machine running allowing you to bypass the activation with a hack ;).
+
+**Anonymous** - *2006-12-13T22:20:00.000-05:00*
 
 Install any Linux distro and it will read all of your "important" personal Windows files.  
   
 Copy them over to your Linux system and then forget about the rest.
 
+**Anonymous** - *2006-12-13T22:20:00.001-05:00*
+
 This. is. just. sheer. genius!  
   
 I'm always looking for unanticipated ways around things like this, just for the heck of it. You've made my day.
 
+**Anonymous** - *2006-12-13T22:28:00.000-05:00*
+
 or you can boot into safe mode with command prompt, go to c:\windows\ and type 'explorer'.
+
+**Joe Mulloy** - *2006-12-13T22:28:00.001-05:00*
 
 Windows Geniunie Advantage is a new thing. It has nothing to do with Windows XP activation. WGA is something that is in Vista and can be downloaded for XP. On XP you need WGA to validate your copy of widows in order to install certian updates, including IE 7, Windows Media Player 11 and some new powertoys.  
   
 What your talking about is Product Activation.
 
+**Anonymous** - *2006-12-13T22:47:00.000-05:00*
+
 Cant you just go to File > Open > C:\Windows\explorer.exe in internet explorer?
+
+**Anonymous** - *2006-12-13T23:03:00.000-05:00*
 
 You can't get to Safe Mode or Safe Mode With Command Prompt once your copy of Windows has expired. It will only go to the Activation screen.  
   
 This trick, however, works great! Kudos!
 
+**Anonymous** - *2006-12-14T00:03:00.000-05:00*
+
 Yank the HD, slap it in a USB case and plug said case into another machine to get old files.  
   
 Bootable Linux CD is realy the best way though, course Windows users who find this article useful are petrified of Linux and call it Line-ex to impress people at work.
 
+**Anonymous** - *2006-12-14T00:16:00.000-05:00*
+
 Of course I pronounce linux, lee-nooks.
+
+**Unknown** - *2006-12-14T00:16:00.001-05:00*
 
 Sheesh guys, give the guy a beak - its a great little tutorial - I bet someone will run across this some day and scream for joy realizing their files are not locked away forever in Microsofts evil clutches.  
   
 Good job bro
 
+**Anonymous** - *2006-12-14T00:32:00.000-05:00*
+
 Quit being a jew and by the freakin' software  
   
 http://www.nimbusters.com
+
+**Steve** - *2006-12-14T00:32:00.001-05:00*
 
 thanks everyone. i do appreciate the comments, good or bad. im surprised this article has gone over as well as it has though. sorry for any errors in it, but i hope it does help someone out eventually.  
   
@@ -45,9 +71,15 @@ haha. if you really want to say thanks. note the donate button on the side. :D
 thanks,  
 -steve
 
+**Anonymous** - *2006-12-14T01:19:00.000-05:00*
+
 Switch to Linux!
 
+**Erofee** - *2006-12-14T01:28:00.000-05:00*
+
 anonymous: quit being a racist.
+
+**Anonymous** - *2006-12-14T01:52:00.000-05:00*
 
 *Cant you just go to File > Open > C:\Windows\explorer.exe in internet explorer?*  
   
@@ -55,7 +87,11 @@ learn to read, dumbass.
   
 You will also not have a Task Bar at the bottom of your screen, as trying to open it will just result in it shutting itself down a few moments later.
 
+**Anonymous** - *2006-12-14T02:09:00.000-05:00*
+
 Congratulations on finding this out. Good job. This could be useful. But, how about switching to Linux as another option ?
+
+**Anonymous** - *2006-12-14T02:27:00.000-05:00*
 
 The 'ananymous' who said:  
 "Quit being a jew and by the freakin' software"  
@@ -64,43 +100,73 @@ I hope you weren't being a BIGOT and just spell badly, and that what you wanted 
   
 "Quit being the few that buy the freakin' software".
 
+**Anonymous** - *2006-12-14T02:41:00.000-05:00*
+
 *But, how about switching to Linux as another option ?*  
   
 Because, unfortunately, most common folk have no knowledge of Linux, and do not want to face another learning curve regardless whether it's high or not. Most choose to stick to what they've grown accustomed to.
 
+**Anonymous** - *2006-12-14T03:36:00.000-05:00*
+
 THANK YOU!  
 I literally just ran into this problem today and this tip worked perfectly!
+
+**Anonymous** - *2006-12-14T07:07:00.000-05:00*
 
 So which is to say, you get to use a browser to find the next Vista WGA activation/hack for the O/S...  
 Oh well, perpetual demoware is better than nothing, but then again so is Linux!  
 If only the marketplace would demand more software be written in both Linux and Windows O/S, but no commercial profit to be gained to write for a free o/s, eh?
+
+**Anonymous** - *2006-12-14T07:16:00.000-05:00*
 
 hey...  
 boot it with linux from cd/dvd/usb and you can get all your files with linux's power..  
   
 just throw it and switch to linux
 
+**Anonymous** - *2006-12-14T07:59:00.000-05:00*
+
 who said anything about linux? bunch of freakin fan boys...thats the digg effect for you
+
+**Infinite Do Loop** - *2006-12-14T08:23:00.000-05:00*
 
 This comment has been removed by the author.
 
+**Anonymous** - *2006-12-14T08:23:00.001-05:00*
+
 Brendan: Learn the difference between race and religion.
 
+**Anonymous** - *2006-12-14T09:44:00.000-05:00*
+
 I don't know what You don't like in this software ... or maybe You have heard, that "greatest hackers" use Unix and Linux and You decided to rot on Microsoft. I have never see Operating system, which does not have any problems. The same matters about the software products. If everything was perfect there would not be new product versions. I can't understand people who rot on some software product ... If You don't like it don't use it or write one yourself and prove us how stable You can make it!!!
+
+**Anonymous** - *2006-12-14T10:08:00.000-05:00*
 
 Linux is awesome, and very powerful. I don't know how practical it is to recommend the average user switching to it. But those who are bashing it, either #1 haven't used it there fore they are not allowed to bash something they haven't used or #2, they have used and didn't put forth enough effort to learn it.  
   
 BTW, nice job to the poster of this article.
 
+**Anonymous** - *2006-12-14T10:56:00.000-05:00*
+
 Anybody try just setting the CMOS clock back a year?
+
+**Anonymous** - *2006-12-14T11:59:00.000-05:00*
 
 What user context does this run under? Does it give you full administrator privileges? If so, you've just discovered a huge local system security hole--equivalent to clicking "cancel" on Windows 95/98.
 
+**Anonymous** - *2006-12-14T12:19:00.000-05:00*
+
 the os you USE is not letting you in, you dont know linux off hand or have any distros, yea ... lets use linux because it will make everything so much easier at the moment
+
+**Anonymous** - *2006-12-14T12:40:00.000-05:00*
 
 Try Knoppix.
 
+**Anonymous** - *2006-12-14T13:05:00.000-05:00*
+
 You may want to consider using Linux. With Vista coming, Microsoft wanting another $140, and them becoming much more strict on upgrades (change out hardware and you have to buy a new copy of Vista!), I've decided not to put up with that tyrrany. I can do everything I need so far in Linux except Quicken and games.
+
+**Aaron** - *2006-12-14T15:42:00.000-05:00*
 
 See the absolute saddest part of this ALL is that Microsoft will probably have a hotfix for this exact "bypass" procedure.   
   
@@ -108,21 +174,35 @@ Not to mention, they won't allow you to access your own personal files. This com
   
 EULA OR NOT! It's extortion.
 
+**Anonymous** - *2006-12-14T19:01:00.000-05:00*
+
 I did this myself one time when my windows expired to soon because I did some mess with the date and time properties. But i went by another way, where windows was also proposing to visit the windows site or somethin.
+
+**Anonymous** - *2006-12-14T23:23:00.000-05:00*
 
 This is a great workaround, I don't think it has anything to do with piracy at all. My case in point is a machine that I bought second hand with XP installed, but the guy I bought it off had reinstalled, but not activated the OS. This trick would at least have allowed my daughter some functionality until I chased down microsoft and "pleaded my case".  
 Thumbs up.  
 PS I did boot it with Leenucks (however you want to pronounce it) but my teenage daughter just isn't that.
 
+**Anonymous** - *2006-12-14T23:44:00.000-05:00*
+
 If you are worried about file access in event of ANY opperating system failing to load for whatever reason then go to http://www.nu2.nu/pebuilder/ and spend a couple hours tobuild your own bootable XP baised CD. Toss it in a drawer and forget it. Someday you'll be glad you did.
+
+**Anonymous** - *2006-12-14T23:47:00.000-05:00*
 
 Seems like in order to sell Vista, they need to lock down XP. Maybe it's time to move on and get a Mac or Linux as others suggested?
 
+**Frosty** - *2006-12-15T00:04:00.000-05:00*
+
 This comment has been removed by the author.
+
+**Frosty** - *2006-12-15T00:06:00.000-05:00*
 
 I used to subscribe to the formula of upgrading to the latest windows on my work machines everytime they came out with something new. but this product registration bit is a form of illegal tyranny in my book and I no longer use windows  
   
 Mac is the way to go. It does everything I need and no longer do I have to put up with someone else telling me what I can or cannot do or when I will do it with my machine.
+
+**Anonymous** - *2006-12-15T00:58:00.000-05:00*
 
 THIS TACTIC IS STUPID, THERE IS AN EASIER AND BETTER WAY!  
   
@@ -138,15 +218,23 @@ P.S.:TUX is the man
 MS is SOO stupid. If you want to download updates from MS website, go to the validation screen. Once there, turn of Scripting and Active X controls, and pick validate windows. It will take you to the update screen where you can update you computer.  
 I HONESTLY think the developers at MS let these tricks work on purpose,. I mean, NO COMPANY could be THIS stupid
 
+**Anonymous** - *2006-12-15T03:27:00.000-05:00*
+
 Personally I use both Linux AND Windows. I'm weird like that.  
   
 Anyway, my advice (if you just want to get to your files and nothing more) is to get a hold of one of the Linux Live CDs (e.g. Ubuntu, Knoppix) and use it to copy the files you want to another drive (e.g. an external drive). There are websites all over detailing how to do this. Just do a Google Search.
 
+**Unknown** - *2006-12-15T04:44:00.000-05:00*
+
 After you have don this you can run sysprep and get your machine run without any problems fore 30 days!!!
+
+**Anonymous** - *2006-12-15T08:20:00.000-05:00*
 
 So, how does someone without Windows keys on their keyboard (being a curmudgeon, I use IBM Model M clicker keyboards) do this?  
   
 One other note: While the Task Bar may not be available, if the system is booted up far enough to run Task Manager (using Ctrl+Alt+Del), there should be a File...Run command option available from the Task Manager. You could run Explorer.exe or other commands from there.
+
+**Anonymous** - *2006-12-15T09:30:00.000-05:00*
 
 How did an article that is unrelated to Operating System choice become a barrage of Linux fanboys touting the merits of their superior OS?  
   
@@ -158,11 +246,19 @@ you would regard this as unintelligent and not adding anything to the conversati
   
 I applaud the author of this tip for pointing out a clever way to solve a problem that some Windows users may run across.
 
+**Anonymous** - *2006-12-15T11:06:00.000-05:00*
+
 Not to tout Linux or any of the other alternatives but FUCK MICROSHIT WINDOWS. I use it. I hack it when I can, it sucks most of the time. You are in love with it? Get help.
+
+**Anonymous** - *2006-12-15T15:42:00.000-05:00*
 
 I think that Ctrl-Esc is the equivilant of the Windows key.
 
+**Anonymous** - *2006-12-19T16:49:00.000-05:00*
+
 Thank you so much. Instead of using the narrator all I did was go to the window were it visit windows website. Searched for a crack on my laptop and downloaded it burnt on a cd transfered it to my pc and installed the activation crack and now it works . I completely forgot about using the directories in IE if it werent for this blog I would have reformated my pc.
+
+**Anonymous** - *2006-12-20T01:23:00.000-05:00*
 
 Don't forget about the alternative shells out there! :)  
   
@@ -172,16 +268,28 @@ In case you want to run an explorer.exe like shell.
   
 I'm thinking maybe this could be ran as a logon script?
 
+**Anonymous** - *2006-12-20T10:09:00.000-05:00*
+
 Or once you've installed linux you could just go and play on the highway during rush hour. cause that's its the same. the person that runs ya over is the person that bought a copy of windows xp and activated it after installing it like its supposed to be done. jew1
+
+**Anonymous** - *2007-01-01T02:49:00.000-05:00*
 
 just make the jump to linux ( mines PCLinux Os ), I`m no nerd, I`m not in the industry, I can`t program, and I don`t know what a script thing is or does. But I can use Linux, especially the one above because its so easy.  
 Wait to all you M$ fans start using vista and start playing and copying your favorite music and videos. From what I`ve read, you ( and all the "millions of public users" ) are in for a big BIG surprise...
 
+**Anonymous** - *2007-01-10T15:23:00.000-05:00*
+
 Some of programms don't open by twice clicking on exe icon, such as RevConnect. Those programms can be opened by pushing "Run as..."
+
+**Anonymous** - *2007-01-12T01:19:00.000-05:00*
 
 To the poster who suggested setting the CMOS clock back, that doesn't work, somehow MS knows it's been in the future already ;)
 
+**Anonymous** - *2007-01-19T08:53:00.000-05:00*
+
 Devil is filthy, not Jesus, don't blaspheme!
+
+**Anonymous** - *2007-02-02T07:42:00.000-05:00*
 
 To all you linux users, the reason we use windows is because it's simple (except from when it goes wrong). What we should have done is tell Microsoft to fuck off in 95 and stick to 3.1 or 3.11. That would have solved the stability and the activation problems.  
   
@@ -191,27 +299,45 @@ Linux is pointlessly complicated and I can't see people using it much (it took m
   
 PS: It's a great article. :)
 
+**Anonymous** - *2007-02-09T16:32:00.000-05:00*
+
 I've used Linux and Windows for years. Both suck, Windows sucks less
+
+**Anonymous** - *2007-02-09T21:55:00.000-05:00*
 
 THANKYOUTHANKYOUTHANKYOUTHANKYOUTHANKYOU  
 WPA\_Kill.exe
 
+**Anonymous** - *2007-03-07T05:17:00.000-05:00*
+
 dis article rocks! fuck all d othr dumb asses. peace
+
+**Anonymous** - *2007-03-10T13:58:00.000-05:00*
 
 You can run the programs that normally won't run in this mode by renaming them. For example CMD.EXE will automatically terminate after about 1 minute. However renaming to CMDX.EXE will allow it to run indefinitely. Renaming explorer also works, but then running EXPLORERX (or whatever) won't result in the taskbar. To enable that you need to tweak the registry  
 HKLM/SOFTWARE/MICROSOFT/WINDOWS NT/CURRENTVERSION/WINLOGON/SHELL.
 
+**Anonymous** - *2007-03-13T07:24:00.000-04:00*
+
 Or you can ring MS on +448000188354 to get your product activated!
+
+**Anonymous** - *2007-03-16T15:54:00.000-04:00*
 
 LOL, i was desperate to find a solution, thanks a lot, you made my day dude :)
 
+**Anonymous** - *2007-03-25T11:49:00.000-04:00*
+
 http://theexplodingboy.wordpress.com/
+
+**Anonymous** - *2007-05-02T09:49:00.000-04:00*
 
 After installing Xp only less than a week ago you can imagine my horror when the Activate Windows now prompt appeared at windows startup. Last time I used my PC I had been messing around with setting the date a couple of years back in order to register an old graphics program.   
   
 I just finished installing all development software and copying all my data to new system so a reinstall of XP is not an option until I can copy my data to an external drive.  
   
 Looks like I will be using Knopix to hopefully copy data to external drive and then reinstalling XP or waiting on the phone for days.
+
+**Anonymous** - *2007-05-09T22:55:00.000-04:00*
 
 This is not a forum to discuss if Linux is better than Windows, it is to help those with an expired Windows password. Great info from Steve, I learned a few things from you. You may have to start in safe mode or Steve’s suggestion may work  
 a) Magical Jelly Bean Version 1.41 allows you to change the windows key  
@@ -222,11 +348,17 @@ c) Interesting article about window keys and how to manipulate them. http://www.
  If you found my input useful let me know, I’m trying to sort out a friends computer half way around the world.  
  Now there’s some USEFUL info, unlike “change to Linux” - Bahhhhhh
 
+**Anonymous** - *2007-05-10T01:24:00.000-04:00*
+
 One other solution which might work will be to reinstall windows using the repair option which comes up after the End User Agreement screen. If you do not have a Win XP SP2 disk, borrow one and use one of the 3000 plus almost legitimate serials that I left as an attachment on the bogus novicetraveler@hotmail.com account (password zxcvbnm). To reinstall windows, start the computer and you will be given an option to boot from CD by pressing any key. If this message does not come up you need to enter setup (F2 on some computers, DEL on others and F10 on Compaq) and set the boot sequence so it boots from the CD first. Once you boot from the CD it is straight forward, ignore the Repair Console option and choose the Repair Option that comes up after end user Agreement. If you get a screen that talks about file systems FAT - NTFS do not go ant farther, BAIL!!!   
 Once Windows has reinstalled you will be given the option to Turn Off Automatic Updates, TURN THEM OFF!!! You will be asked if you want to register – answer NO!!!  
 Good Luck
 
+**Anonymous** - *2007-05-11T03:07:00.000-04:00*
+
 HA! Using a MS hotmail as a platform to pirate MS Software is pure GENIUS. I'm not buying more than 1 copy of windows for all the computers only I use. Linux sucks. Get a Mac. And pirate windows when you need fancy spreadsheets.
+
+**Anonymous** - *2007-05-24T10:44:00.000-04:00*
 
 UPDATE UPDATE UPDATE.  
   
@@ -248,29 +380,49 @@ As far as I have tried, this doesn't work with explorer.exe or taskman.exe, so i
   
 Try the crack I mentioned in point 1). Works like a charm
 
+**Anonymous** - *2007-05-25T09:58:00.000-04:00*
+
 Thak you john... more than 2 days to fix the problem and with your help i fixed that in seconds. Thank you again
+
+**Anonymous** - *2007-05-30T05:49:00.000-04:00*
 
 hmm, this could be handy because my vista will apparantely expire tomorrow, ah well I still have OS X (what? you say), as for Linux I installed Fedora 6 but the damn thing always freezes during startup, plus there are no drivers for half of my hardware
 
+**Anonymous** - *2007-05-31T10:07:00.000-04:00*
+
 Funny... for the last few weeks Vista has kept telling me it was going to expire, today every hour it has reminded me to back everything up, it got to zero hours a couple of hours ago so I rebooted and it's still working....hehehehe
 
+**Anonymous** - *2007-06-11T14:57:00.000-04:00*
+
 These comments have been invaluable to me as is this whole site. I thank you for your comment.
+
+**Anonymous** - *2007-06-19T09:09:00.000-04:00*
 
 To those of you saying BUY IT NIMROD: Nice way to assume we all want this because we are stealing windows. I am an IT Manager and I have a user that is out of the office and his LEGAL Vista expired on him. He isn't the techiest guy and is having the hardest time reactivating his Vista. This should, at least, buy him a few days until he is back in the office and I can fix this for him.  
   
 Thanks.
 
+**Anonymous** - *2007-06-21T00:02:00.000-04:00*
+
 Quite simple once you think of it... but neat. Nice info Steve!
+
+**Anonymous** - *2007-06-29T18:37:00.000-04:00*
 
 Thanks a lot! I has a problem to activate legal copy over internet just by stupid reason - I need to change network settings for access to internet, but no way to do it, windows is locked, safemode+net too. 10 seconds full access that I have using this trick was enough to change ip config, and next 10 second windows was activated. I wasted 4 hours for finding solution, and at the end is so easy...  
 THANKS!!!!
+
+**Anonymous** - *2007-07-03T11:54:00.000-04:00*
 
 Hey  
 it won't actually let me log on at all it just asks whether or not I wish to activate Window and when I click yes it automatically logs me straight back out :/  
   
 Help please?
 
+**Anonymous** - *2007-07-19T18:06:00.000-04:00*
+
 Thank you sooooo much! I was crying that my quickbooks file was trapped in there inside a parallels for Mac VM.
+
+**Anonymous** - *2007-07-21T20:03:00.000-04:00*
 
 Im trying this now and so far im in with firefox open, but thats not really that much use if i want to copy all my files to disks.  
   
@@ -286,7 +438,11 @@ Now its just a case of finding the right date again, or hacking my way in the sy
   
 Fun.
 
+**Anonymous** - *2007-08-08T00:55:00.000-04:00*
+
 Thanks, you saved me a reformat.. I used Antiwpa to lose the annoying activation.
+
+**Anonymous** - *2007-08-08T18:10:00.000-04:00*
 
 BINGO! I love the internet community. I hate it when a company becomes a monopoly. Check this out and what the internet community is capable of - radical transparency. http://www.wired.com/wired/archive/15.04/wired40\_ceo.html  
   
@@ -295,7 +451,11 @@ Also need to expose emachines. They have a dirty little secret that when the har
 MSB  
 Albuquerque
 
+**Anonymous** - *2007-08-10T15:04:00.000-04:00*
+
 Or You Could Just Get A MAC, so much better than windows.
+
+**Anonymous** - *2007-08-11T18:15:00.000-04:00*
 
 Some of this may require you do a bit of research.   
   
@@ -310,15 +470,27 @@ Reg import whatever.reg
   
 reboot
 
+**Anonymous** - *2007-08-26T05:44:00.000-04:00*
+
 THANK YOU SO MUCH!! I brought my computer secondhand over the net and he had put windows on it but I wasn't sure if it was copied or not. Thank god this helped me (without any corruption) to get a years worth of work back!
+
+**Anonymous** - *2007-08-29T10:34:00.000-04:00*
 
 hey guys can anyone email me the windows xp product activation hack program. I tried logging in to the hotmail account but it did not let me in. My email is ipod012004@gmail.com plz help me out!!!!!!!!!!
 
+**Anonymous** - *2007-09-01T19:35:00.000-04:00*
+
 Thanks for interesting post!
+
+**Anonymous** - *2007-09-04T08:56:00.000-04:00*
 
 Can't thank you enough. Getting me through until I can find out why when I attempt to activate I'm getting an "already activated" message. This is on a re-install of XP Pro. Any ideas on this would be appreciated.
 
+**Unknown** - *2007-09-05T14:53:00.000-04:00*
+
 Thank you so much! I have literally been bawling my eyes out for the past 4 hours because I couldn't get into my computer and get my paper, which is due tomorrow! I just bought my comp used and this was my first time using XP- and I didn't know what the activation thing was so I just kept Xing out of it. Until it expired yesterday and I couldnt get into my computer! But when I tried to activate it, it said I don't have a valid product. I tried talking to them on the phone and told them what happened and that I bought it used but they just said basically too bad. I'm a broke college student too and there's no way I'm shelling out the cash for another XP disk!! Thanks for the life-saving trick!
+
+**Anonymous** - *2007-09-11T13:01:00.000-04:00*
 
 Picturing someone bawling their eyes out for 4 hours literally - lol.  
   
@@ -338,15 +510,27 @@ You steal, I steal, why can't we be friends:)
   
 - Art27
 
+**Anonymous** - *2007-09-13T14:09:00.000-04:00*
+
 Hi guys can anyone email me the windows xp product activation hack program. I tried logging in to the hotmail account but it did not let me in. My email is giedrala25yahoo.co.uk please help.
+
+**Anonymous** - *2007-09-15T09:27:00.000-04:00*
 
 Good job ... very helpful ... it saved my life once:)
 
+**Anonymous** - *2007-09-21T14:04:00.000-04:00*
+
 This is glorious. After doing a repair install today, I installed service pack 2 before I even setup my internet connection. Windows said I had 3 days to activate, then when I rebooted, it gave me the activate now error message. This trick let me hack around the system to setup my connection so it could activate. Thank you.
+
+**Unknown** - *2007-09-30T16:22:00.000-04:00*
 
 This comment has been removed by the author.
 
+**Anonymous** - *2007-09-30T16:23:00.000-04:00*
+
 Hey y'all. I cant get into the hotmail account to get the hack program. Can someone send it to me ? My email is stefan\_thor87@hotmail.com. Thx in advance
+
+**Anonymous** - *2007-10-02T21:29:00.000-04:00*
 
 This was AWESOME. My problem was that my network settings were messed up so I couldn't register over the internet and the phone route just wasted 30 minutes of my life with no success.  
   
@@ -354,24 +538,40 @@ I was able to get the network up and running and all is well!
   
 -Brooke
 
+**Anonymous** - *2007-10-23T20:04:00.000-04:00*
+
 I'm working on this PC with XP that after having run fine for over a year, now suddenly needs to be actived...  
   
 Problem is that windows activation does not start - so XP logs out immediately again.  
 Will go for the solution to put the drive in another PC.
 
+**Anonymous** - *2007-11-01T09:29:00.000-04:00*
+
 Hi Everyone...I recently bought a laptop from a friend of a friend and my daughter accidentally deleted something so I ran a system restore. The power went out in the middle of the restore so then I had to do a repair. My hubby finished the repair for me but in doing so he did not run the setup for internet..he just skipped it..so now its asking to activate windows and I can't configure my wireless connection at all. I haven't bought a router yet and tried to connect it through my dsl but no luck..I'm new at this stuff so any input would be greatly appreciated. Thanks
+
+**Anonymous** - *2007-11-13T03:35:00.000-05:00*
 
 Works on Windows Vista Business
 
+**Anonymous** - *2007-11-13T04:22:00.000-05:00*
+
 I tried this trick on windows vista business and run timestop. It works perfectly! Now, my friend's computer is working again without reinstalling vista. Thanks for this tip.
 
+**Anonymous** - *2007-11-17T19:40:00.000-05:00*
+
 A better way to do this is to just say you want to activate windows over the internet, after that if your product key is incorrect they will give you a link to their website for help. click on the link and BAM you've got a windows internet explorer window opened. from there you can access your desktop and do anything you want.
+
+**Anonymous** - *2007-12-04T15:11:00.000-05:00*
 
 One of the simple ways to validate windows is also available in a registry file..i think it should be available online. I works all time i have reinstalled Windows with diff keys.I am getting updates from Microsoft after that by mail.  
   
 :)
 
+**Anonymous** - *2007-12-12T15:19:00.000-05:00*
+
 works on Windows server 2003 as well :)
+
+**Anonymous** - *2007-12-14T11:36:00.000-05:00*
 
 I used Linux for a while (Ubuntu, and Fedora 8). While they are very fast, and have similar programs (if not better) to replace most of the ones I used before (Ardour, OpenOffice, GAIM, etc), it has inferior hardware support, and there are lots of little annoying bugs, particulally in Fedora 8. For example, when I try to install Synaptics, it complains about packages missing. Why can't yum just download them, or can't they be included in the distro/software.  
 Also, although Linux doesnt crash as much, when it does, it doesnt recover as well.  
@@ -383,6 +583,8 @@ Works a treat.
   
 Incidentally, I'm soon to be moving over to a mac though - its got the performance and robustness of Linux (both based on Unix), but with extensive beta testing too - so less annoying little bugs and inconveniances.
 
+**Anonymous** - *2008-01-01T17:19:00.000-05:00*
+
 I was able to activate my Windows XP using this trick.  
   
 I used File - Open in Internet Explorer.  
@@ -391,13 +593,19 @@ Booted up my domain controller, made a public share with a WPA Crack in it and t
   
 Thanks for finding this out!
 
+**Anonymous** - *2008-01-08T12:28:00.000-05:00*
+
 Thanks Muchly Man...awesome...u r the man..!
+
+**Anonymous** - *2008-01-31T12:53:00.000-05:00*
 
 c:/windows/system32/explorer  
   
 you can do everyting now  
   
 run wpa kill!!!
+
+**Anonymous** - *2008-02-05T01:56:00.000-05:00*
 
 Hmm, I just eXPerienced this weird (I think) eXPerience. Let's make it short.  
   
@@ -415,6 +623,8 @@ And now I have two fully functional win XP home, with exactly the same product k
   
 Someone tell me please how can this be possible???
 
+**Anonymous** - *2008-02-06T13:14:00.000-05:00*
+
 Hey guys. This article seems really handy.   
 Its just im in a bot of a bind. Im using an IBM T40, which doesn't have a Windows key - meaning I can't use the combination Win + U for Narrator.  
   
@@ -422,8 +632,12 @@ Are there any other ways of bringing up applications when windows is in this sta
   
 Any help would be greatly appreciated. Thanks.
 
+**Anonymous** - *2008-03-06T16:25:00.000-05:00*
+
 you can do it much more easy  
 in the activation screen you can click also a link :P
+
+**Anonymous** - *2008-03-08T17:03:00.000-05:00*
 
 Whats even better, if you use firefox instead of IE, and click on the link, firefox will launch.  
   
@@ -431,7 +645,11 @@ You can then access all what firefox can, i.e. "download" something from your de
   
 By the way, I do not accept that after I bought it, Microsoft wants me to "activate" something I paid for already. Does MS pay for my invested time for this needless hassle?
 
+**Anonymous** - *2008-03-12T12:05:00.000-04:00*
+
 you guys could just use a hack to activate windows before it goes out it could be done trust me
+
+**Anonymous** - *2008-03-18T01:41:00.000-04:00*
 
 I need some advice.....   
   
@@ -439,22 +657,36 @@ I need some advice.....
   
 It's not hooked up to the net...and I might not even put it on the net period.
 
+**Anonymous** - *2008-03-25T14:55:00.000-04:00*
+
 This article saved my life. I had a Windows 2003 on a Virtual PC that had wrong network settings (a static internal IP address assigned). And the activation grace period expired. I was unable to active the OS because of the wrong network settings.  
 Thanks to this article I was able to gain access to the Control Panel and remove the static addresses that were blocking the access to the activation center.
 
+**Anonymous** - *2008-03-28T05:32:00.000-04:00*
+
 This is useful too:  
 \_http://www.4shared.com/file/30347365/15c08411/WGA\_17591.html
+
+**Anonymous** - *2008-03-31T14:09:00.000-04:00*
 
 TRY THIS LINK ...TESTED AND 100% WORKING FOR ME AND MINE FRND   
   
   
 http://satin2jain.blogspot.com/2008/03/windows-vista-xp-genuine-activation-aio.html
 
+**Anonymous** - *2008-04-06T04:38:00.000-04:00*
+
 If you right-click when your in C: and click search on any of the folders, the task bar opens up, for only 30 seconds, and you can access your desktop and all your files. PS After your 30-45 second glory period it closes all the programs that aren't currently restored (not minimized)
+
+**Anonymous** - *2008-04-10T22:36:00.000-04:00*
 
 Haha. The windows key - u thing isn't even necessary. If you have an invalid cd key, just click activate online. Say no to the registration. It will then tell you that you are not able to activate, and will give you a link in much the same manner as the above mentioned method. I'm leaving this comment in an unactive windows =O
 
+**Anonymous** - *2008-04-14T06:25:00.000-04:00*
+
 I just tried this trick on XP Home Edition, and the link is not active... nothing happens.
+
+**Anonymous** - *2008-04-21T21:19:00.000-04:00*
 
 I'm trying to use parallels transporter to copy my old pc onto my new mac and it worked fine until... when i went to log in it says i need to activate, so i say yes, the desktop background appears and then the activate window shows up with a picture of keys and then nothing at all, nothing to click or type and if you close it it logs you out, so  
   
@@ -465,6 +697,8 @@ shut down, restart, hit F5 to get the boot menu, then F8 for boot options, choos
  it will start a cmd prompt, you can't type explorer.exe here, but if you ctrl alt del you get the task mgr then in the file menu choose run and type explorer.exe and you're into the computer in safe mode and can access files etc...  
   
 my issue is that you can't activate windows while in safemode, and i can't get into the activation screen the normal way, so i'm still screwed but for those of you trying to get into the machine to salvage your files what i did works
+
+**Anonymous** - *2008-05-04T16:57:00.000-04:00*
 
 Great post. A friend of mine ran into the problem, and I could help him (as a computer profesinal that I am), so now I know one more trick..   
   
@@ -478,7 +712,11 @@ So stop trashing and rambling about switching to a "better" OS, whatever works f
   
 The regards go the author of this text as he enabled us to learn a new trick that could come in handy in some situations, and it did now..
 
+**Anonymous** - *2008-05-26T22:12:00.000-04:00*
+
 Thanks you really are a life saver. :D
+
+**Anonymous** - *2008-05-30T04:54:00.000-04:00*
 
 this isn't tested on more than my computer but thanks to your help i was able to navigate to a file browser eventually and cause an error WHERE YOU CAN ACCESS THE DESKTOP AND EVERYTHING JUST AS YOUR LOGGED ON for a short period of time. taskbar and all.  
   
@@ -494,7 +732,11 @@ Browse.
 go up one level, and then right click my documents.  
 click expand and there should be an error. :) move quickly. it will fix itself.
 
+**Anonymous** - *2008-06-13T00:46:00.000-04:00*
+
 sigh. Its a good article for a quick fix to copy files. I agree with your reasoning of allowing people to get their files after not activating, however, this would generally only be people that pirated the software and can not activate, stuff them. and of course, why is it linux users have nothing better to do than promote it duirng windows conversations/articles. Also where does the 'linnux' pronunciation from from, wasnt it named after Linus Torvalds? not Linnus. and before anyway says it pronounced like it ends in unix, no, no its not. If that was how it was meant, that is how it would be spelled.
+
+**Anonymous** - *2008-07-18T13:44:00.000-04:00*
 
 At the moment I'm using this narrator thing to access a web browser.  
   
@@ -514,11 +756,19 @@ Any help would rule, I don't mind doing things through the narrator but it's ann
   
 halp plz.
 
+**Anonymous** - *2008-07-31T21:40:00.000-04:00*
+
 Thank you so much! I've been needing to get a few files off of my laptop, but I didn't do it before my Windows locked up on me. Now I can finally get them. Thanks again!
+
+**Anonymous** - *2008-08-21T04:44:00.000-04:00*
 
 thanks for this blog.. hahaha. it saves us in work... thanks a lot and nice post.
 
+**big.bald.dave** - *2008-08-27T18:02:00.000-04:00*
+
 Dude, awesome work - saved me half a day. :D
+
+**Anonymous** - *2009-07-08T16:14:11.833-04:00*
 
 men just dont know how to thank you.  
 kudos dude I could get all my info. and therefore reinstall xp and keep going just fine.  
@@ -526,8 +776,12 @@ kudos dude I could get all my info. and therefore reinstall xp and keep going ju
   
 keep up the good work
 
+**unixadmin@aa.com** - *2009-08-13T06:51:59.859-04:00*
+
 What I don't understand about Microsoft is how such complicated, and I really do mean complicated multi-avenue attacks and viruses are written, almost before the new software is even on the shelf! Makes you wonder just who is writing these viruses and Trojans when you have to have an extremely intimate knowledge of the Microsoft code in order to write the attacks! Do they let just anyone have the code to play ("Beta") with and try to "Break it"...what are they really doing? In 2007 alone, Microsoft has released 5 Cumulative Security Updates and 4 Vulnerability Updates making multiple updates JUST for Internet Explorer. To those of us not privy to the code, we just wonder now, don't we? Now little Nazi Boy Jewish Hater, do not get down on me here, just yet! I am not going to tout Linux, as I have been a sys admin on the SPARC platform for Sun Solaris Servers using Sun’s proprietary Unix SunOS and BSD’s SVR4 or “System 5” since SunOS 4.1.2 (called Solaris 2 internally, or SunOS 5.x externally, for some reason!) in 1990-1991 when it was first was released. BTW: It came with support for multiprocessor - SPARCserver 600MP systems and our servers had (4) - 450mHz Processors (FAST!!!) and It also was the first CD-ROM-only release). I also took Sun Microsystems training in Sun Solaris 8 (actually SunOS 5.8 (x86)) System Admin Boot Camp and Advanced System Administration Solaris 9 (actually SunOS 5.9 – don’t believe me? Do a uname -a at cmd prompt and you will see the OS as a 5.9 for your Solaris 9 OS) Operating Environment in 2000. But alas… in 2005 Sun released the source code for Solaris 10 (SunOS 5.10) so it is now “Open Sourced”, JUST LIKE LINUX YOU LUMMOX (Now you can get mad you Nazi!) and you don’t have to “Guess” what holes are hidden. There are not really any, with the cavieat that it is installed correctly with ports turned off and other such natural things you do!!! All versions of Unix/Linux are potentially at risk from improper and default configurations, and Brute-force attacks against remote services such as SSH, FTP, and telnet are still the most common form of attack to compromise servers facing the Internet, Unix, Linux, MacOS OR Microsoft! But, even Brute force can be thwarted very easily with good password enforcement. Remember, It is important to remember that brute forcing passwords can be a used as a technique to compromise even a fully patched and properly configured system – Unix, Linux, MacOS or Microsoft.  
 unixadmin@aa.com
+
+**Anonymous** - *2009-08-15T10:00:37.143-04:00*
 
 Hi,I was lucky to have 2 partition drives. One with my data and another with my OS on it.  
   
@@ -535,9 +789,13 @@ I have some important files there and I can't seem to transfer them to my partit
   
 Any suggestions?
 
+**Anonymous** - *2009-08-18T10:31:57.406-04:00*
+
 Agree with Tony. This can be very useful even for those who have a legitimate copy of XP. I, for example, am VNC'ing into my Windows machine from work, and so I don't have the damn product key in front of me. However, I still need to access the machine. Thanks, Steve, for the method.  
   
 - Steve
+
+**Anonymous** - *2009-08-21T06:21:07.703-04:00*
 
 poor.. very poor, man, this is only the half-way into it..  
   
@@ -568,17 +826,27 @@ Whatever.. have a try!
 sincerely  
 Der-Meister-aller-Klassen
 
+**Anonymous** - *2009-09-10T10:22:11.617-04:00*
+
 Steve...  
   
 With your tutorial you made it possible for me to get some files for a task that literally meant me my matric certificate! Dewd, if you didn't post this, I would've failed. Thanks. :D
 
+**Anonymous** - *2009-09-22T08:32:38.170-04:00*
+
 Hey people... with all this said bout microsoft making you pay for your software and activation processes with 30 day trials and blah blah blah... microsoft is "set" upon stolen software as bill gattes "stole" his idea /(software) from a friend.... ironic...
 
+**Anonymous** - *2009-09-29T19:21:06.264-04:00*
+
 Yes verrry nice I yelled Son of a B++tch!! hah great!
+
+**Anonymous** - *2009-10-18T23:41:21.713-04:00*
 
 Great.  
 Very helpfull.  
 Thanks.
+
+**Anonymous** - *2009-12-16T22:33:33.770-05:00*
 
 OK here is ALL of what you can do:  
   
@@ -596,32 +864,56 @@ option 3: Mod the BIOS on startup. (i will not explain this because if you are g
   
 Hope this helps!
 
+**Rodney** - *2009-12-24T21:00:49.955-05:00*
+
 Frikkin genius, thanks!
+
+**haha169** - *2010-01-03T21:18:27.322-05:00*
 
 OR, you can just get a linux distro and recover all your files from there. Even better, Linux will not expire on you - like happened with my Windows XP even though I have a legit copy that worked for 8 years.  
   
 Thank god I switched to Ubuntu.
 
+**Anonymous** - *2010-01-17T11:03:59.199-05:00*
+
 What do I do when I have activated my windows and I still get locked ou of windows? I have activaed it when it had 5days left and it still kept on counting down on the start page inside windows everything is fine and when i tell it to activate windows it tells me windows has already been activated. Can anyone please help me. It is a original copy with a valid licensed key.
 
+**Anonymous** - *2010-01-19T23:13:24.516-05:00*
+
 Thank YOU SO F\*\*king Much!!!!!!! :)-',-< You are da man!!!!!!!
+
+**Anonymous** - *2010-01-21T01:38:31.074-05:00*
 
 I would buy windows if it was 50 instead of 200.  
 Ubuntu is free and they will send you a cd!
 
+**Anonymous** - *2010-01-22T02:53:14.632-05:00*
+
 many said buy the software. DUDE i bouth a PC with the software supposably installed. FROM A STORE. lol. now I am just by passing the damn windows activation bs. Store close down, had to reformat harddrive do to trojans. Got rid of that and now I am stuck with a Windows Xp cd key sticker on my pc thats worth jack crap. I dont wanna go spend more money on this bs. My pc worked great before the reformat, why cant microsoft just except that damn key again and let me reactivate. Your post is great BTW, but I need something to just F... off microsoft's BS. FO real.
+
+**Anonymous** - *2010-01-22T02:54:21.977-05:00*
 
 and BTW LEEENEX linux or what ever u wanna call it, should be ILLEGAL. WHY? why the hell not. its wanna be windows incomplete.
 
-I dont get this to work now. i dont know if mickrofot done some thing or whot but when i press windows key and U i see some think plupp upp for 0.02 sec but i do not get the nerriator or somke thing. and to click forword to get the webpage dont work to bekose my nic driver is not working propely so it says i nide internet acsess so i am stuck in a loop
+**Anonymous** - *2010-01-29T05:19:08.030-05:00*
 
 I dont get this to work now. i dont know if mickrofot done some thing or whot but when i press windows key and U i see some think plupp upp for 0.02 sec but i do not get the nerriator or somke thing. and to click forword to get the webpage dont work to bekose my nic driver is not working propely so it says i nide internet acsess so i am stuck in a loop
+
+**Unknown** - *2010-01-29T05:19:08.031-05:00*
+
+I dont get this to work now. i dont know if mickrofot done some thing or whot but when i press windows key and U i see some think plupp upp for 0.02 sec but i do not get the nerriator or somke thing. and to click forword to get the webpage dont work to bekose my nic driver is not working propely so it says i nide internet acsess so i am stuck in a loop
+
+**Arc. Caesar Oti** - *2010-01-31T07:16:42.216-05:00*
 
 Helped me today it did. So many comments for a simple problem. Just adding to the talk already here, hehe
+
+**Anonymous** - *2010-02-10T11:48:02.475-05:00*
 
 Absolutely perfect! Thank you!!!!!  
   
 I followed the various steps as described to get on-line. After getting onto the MS web site listed above, I managed to go to my C drive, then control panel and uninstall sp3. The uninstall took quite a while - be patient. Once finished, the ctr got stuck and I needed to re-booted. And voila! My ctr was funtional again with sp2 still installed. What a blessing! THE MOST PERFECT SOLUTION!!!!
+
+**Anonymous** - *2010-02-24T08:33:15.253-05:00*
 
 Same problem (message # 32777).  
   
@@ -638,20 +930,34 @@ Typed in time in dos box and then entered correct time
   
 Leaving cmd window open I then retried and it allowed me to proceed with the activation.
 
+**nononraingam** - *2010-02-25T08:54:10.911-05:00*
+
 Thanks This really works with XP Home, Pro and Vista Home and Premium.. Great work..Friend.. This helps me a lot of time and money. Go ahead.... Good luck...
+
+**Anonymous** - *2010-03-02T13:53:14.670-05:00*
 
 Thank you! Just needed to get my files off an reload after ordering recovery cds from HP. I never imagined it would lock me out and not let me copy my files off.
 
+**Kiran Maharjan** - *2010-03-03T02:43:53.384-05:00*
+
 It's great, It really help me out, thanks.
 
+**Kevin Jackson** - *2010-03-08T14:10:13.448-05:00*
+
 Thanks so much! I thought I was toast.
+
+**Anonymous** - *2010-03-24T02:10:20.676-04:00*
 
 great tutorial.....   
   
 thank you
 
+**Thomas** - *2010-03-24T07:00:48.652-04:00*
+
 Wow!  
 Since my IP was set to a fixed value when I got locked out I couldnt activate Windows. Now I was able to change IP with your trick and can now activate windows via the web. GREAT THANKS!!!
+
+**Anonymous** - *2010-03-26T04:36:11.672-04:00*
 
 HOW TO OVERRIDE WINDOWS GENUINE NOTIFICATION  
   
@@ -663,6 +969,8 @@ delete all files that have the label "WINLOGON"... restart
   
 My Computer => C:\Windows\System32\dllcache.....  
 delete WGAtray.exe...if it can't be deleted, send it to My Document.Restart
+
+**NOBLE** - *2010-03-31T15:42:06.153-04:00*
 
 TYPE:-c:\windows\explorer.exe in the browser.  
 Download the explorer.exe & open it.  
@@ -676,18 +984,32 @@ Then log on in to your previous system.
 Dont forgot to activate the windows using crack AntiWPA.  
 Download its torrent fromhttp://torrents.thepiratebay.org/3468960/Windows\_XP\_Activation\_Crack.3468960.TPB.torrent .
 
+**Anonymous** - *2010-04-13T09:07:27.863-04:00*
+
 It is so cool!! Thanks.
 
+**Anonymous** - *2010-04-19T15:52:23.244-04:00*
+
 epic win ^^
+
+**Anonymous** - *2010-05-01T14:43:42.662-04:00*
 
 anonymous said: "learn to read, dumbass."  
 well, anonymous, learn to spell, dumb ass!
 
+**Anonymous** - *2010-05-10T17:47:29.429-04:00*
+
 wow man, i know its old but this saved me alot of trouble, before i found this i was about to restore but now i just opened explorer and cracked my activation using some torrents i found :)
+
+**Anonymous** - *2010-05-25T05:55:40.538-04:00*
 
 Thanks a lot! This tip 'rescued my life'
 
+**Anonymous** - *2010-06-03T10:43:07.773-04:00*
+
 2010 and this tip still is handy..i can confirm it works on windows server 2003 and that once you have your ie window you can type in C:\Windows\explorer.exe and load up your entire enviornment. Thanks a pantload
+
+**hagi** - *2010-06-14T17:08:56.999-04:00*
 
 as of 14 June 2010,it is working!  
   
@@ -695,12 +1017,20 @@ Many thanks.After login, i downloaded antiwpa from http://torrents.thepiratebay.
   
 Now everything is working smoothly.
 
+**Anonymous** - *2010-06-15T02:41:35.162-04:00*
+
 Perfect!
+
+**Anonymous** - *2010-06-22T22:16:42.438-04:00*
 
 HI thanks Steve. You're an answer to my prayer. Right now I am observing my CCTV server to go on functioning right after I followed the steps you taught. If this could go on forever then I am forever grateful. Windows anomaly. I just reset my processor doing my scheduled maintenance and for Christ's sake got the activation notice in 3 days not changing any hardware. Anyways thanks again.
 
+**Anonymous** - *2010-06-27T15:24:26.325-04:00*
+
 this is really gr8 thing...........  
 worked for me
+
+**Anonymous** - *2010-07-06T09:42:44.994-04:00*
 
 I just tried the "start in safe mode with command prompt" method and typing explorer.exe in the c:\windows folder.  
   
@@ -708,7 +1038,11 @@ How great to discover I was able to log into windows in safe mode, run "jellybea
   
 The next problem at the normal login screen when I click yes I was to activate now I get a blank screen.
 
+**Anonymous** - *2010-07-06T17:35:50.832-04:00*
+
 Reboot, Hit F8, Select Safe mode with command prompt, click Administrator, when in command prompt type: explorer.exe and do what you like..
+
+**Ben** - *2010-07-10T22:10:05.079-04:00*
 
 Thanks so much,  
   
@@ -716,9 +1050,15 @@ I was in a deep load of stuff, I couldn't activate windows by internet because t
   
 Thanks.
 
+**Anonymous** - *2010-07-22T15:53:27.752-04:00*
+
 Awesome trick! Thank you!
 
+**Unknown** - *2010-07-31T12:22:02.822-04:00*
+
 This was exactly what I needed too!! thanks!!!
+
+**Anonymous** - *2010-08-01T19:20:57.012-04:00*
 
 The original solution did not work for me (German XPSP2). But a slightly different approach worked. Minimize the activation window then press STRG N - and an Internet Explorer window opens. You can now enter c:/ (or whatever) and access, move and copy all your files.  
   
@@ -726,20 +1066,36 @@ What does not work is to run any programs, not even CMD, you get an error messag
   
 But usually it is more practical to boot from a CD (Linux or WindowsPE).
 
+**Anonymous** - *2010-08-03T17:50:56.351-04:00*
+
 This is great, thank you very much
+
+**Anonymous** - *2010-08-03T17:52:02.877-04:00*
 
 Many thanks
 
+**ssampier** - *2010-08-06T17:55:11.752-04:00*
+
 Totally awesome. Upgraded my test Windows 2003 machines to R2 and activation freaked out. Your tip saved the day.
+
+**Anonymous** - *2010-08-12T07:21:58.140-04:00*
 
 I own a game-ing pc so this did help to certain degree and the internet is plugged in to a pci and you can only connect from the program itself, so I guess I'll just have to phone the microsoft people, I hate them.
 
+**Anonymous** - *2010-08-14T23:22:29.598-04:00*
+
 YOU ARE THE GOD
+
+**Anonymous** - *2010-08-14T23:22:57.711-04:00*
 
 thank YOU
 
+**tunetworker** - *2010-08-18T19:53:31.471-04:00*
+
 ok ok, thanks but how can i run a WInkey + U on Vmware? its not working, and i cant install the tools either since i cant login, so when i press WinKey + U it gives me the window but from my Real Windows OS not the virtual one, any help is appreciated, thanks!  
 Good day people...
+
+**Anonymous** - *2010-08-22T03:24:23.723-04:00*
 
 I've made it to my files lol! Here's where I'm clueless though...  
   
@@ -751,19 +1107,29 @@ So I own 2 valid XP keys, but this activation came up when I put my Compaqs driv
   
 ...apologies for the long ramble lol =)
 
+**Anonymous** - *2010-09-03T14:10:49.520-04:00*
+
 Great info! Thanks!
+
+**Anonymous** - *2010-09-17T01:28:08.951-04:00*
 
 I have found that with Vista or W7if your 30 day grace period is about to expire you can simply change the date on your computer to a previous date to alot you more time before it locks up. (must deactivate automatic date synchronization)   
   
 Also if you have an illegitamate copy of Vista or W7 and a windows update invalidates your license, you are able to log on with limited usability and can restore to a previous date(most likely created before the updates are installed) which will un-invalidate your license, and allow you to hide the problematic update.
 
+**Anonymous** - *2010-09-23T00:52:45.720-04:00*
+
 shit wont let me in even if i put yes vaildate just keeps loging me out WTF fucken fagget microsoft
+
+**Anonymous** - *2010-10-06T21:04:00.493-04:00*
 
 Great Infor....  
   
 Manage to backup all my files to an external hdd.  
   
 Thanks....
+
+**Jase** - *2010-10-08T15:18:54.164-04:00*
 
 Thx alot...Awesome.  
   
@@ -773,19 +1139,33 @@ Then after that, normal boot it to before expired and download anti wpa software
   
 i downloaded the generic 1. Worked like a charm. Cheers
 
+**Anonymous** - *2010-10-08T22:37:32.546-04:00*
+
 Thanks! Works with latest updates! When you're in the web browser, type c: with no backslash in the address bar and the desktop and start menu appear!
+
+**Anonymous** - *2010-10-13T18:13:04.859-04:00*
 
 Thank you, this worked like a charm...like voodoo magic, was able to re-install my wireless adapter to get online and activate windows!  
 THANK YOU!!
 
+**Anonymous** - *2010-10-19T03:52:28.033-04:00*
+
 On your internet browser go to downloads and open containing folder (If you've got any). From there you can use MY COMPUTER!
+
+**Anonymous** - *2010-10-30T19:03:21.841-04:00*
 
 My machine had been off for a couple months, and while it was off, it had expired before I got it activated. It also had a static IP address from another system, so could not connect to the internet. I got into Explorer using your trick, then managed to get Explorer running through that. Once I had Explorer up, I got into control panel (within that few seconds it runs is plenty of time) and got into my Network Settings and was able to reset the static IP address to DHCP, got a new valid address and was able to activate successfully. THANKS!
 
+**Anonymous** - *2010-12-10T18:38:00.416-05:00*
+
 This saved my bacon. Thanks for the tip!
+
+**Anonymous** - *2010-12-19T14:25:20.289-05:00*
 
 Thanks a lot.  
 You saved my day
+
+**John Lennon** - *2010-12-29T10:38:46.652-05:00*
 
 Part 2:  
   
@@ -816,6 +1196,8 @@ ren logon.scr logon.bak
 make DOS command box your new screensaver:  
 copy cmd.exe logon.scr
 
+**John Lennon** - *2010-12-29T10:39:15.966-05:00*
+
 Part 3:  
 Now take off USB/CD/DVD & boot normally. Get into windows activation and leave the machine (no touching keyboard or mouse or mving for screensaver to work) for 20 to 40 minutes. The command box pops up as screensaver! type: C:\windows\explorer.exe  
 If this does not happen try again without logging into activation by saying No to the dialog box or leave it and it will eventually work after 30 minutes of not touching the machine.  
@@ -830,13 +1212,21 @@ Use AntiWPA or WPA\_KILL or other stuff again if you want. Copy your stuff from 
 Good luck.  
 love & peace out ;)
 
+**Anonymous** - *2011-01-17T15:56:29.365-05:00*
+
 thanks so much for this its works great.
+
+**Anonymous** - *2011-01-17T22:11:31.238-05:00*
 
 Thank you so very much for this article!   
 It's what I needed after losing track of a few days and having no phone access.  
 Thanks again. :)
 
+**Anonymous** - *2011-02-18T22:14:48.740-05:00*
+
 i used this method to get access to my download folder and ran the install upgrade winks corp, which i had forgotten to do be for the 30 day lockout....my install CD for the program end up beaning corrupt so being able to get to the copy of on the HUD was a god send.....for the time it saved me pulling the HUD sub Inga to another machine copying all user files ,reinstalling back in the original case the doing a fresh install using this technical it was boot , couple of clicks and update ,,thanks my friend
+
+**Anonymous** - *2011-03-14T23:02:56.030-04:00*
 
 THANK YOU very much for this kind of techie-tutorial ..  
 GREAT JOB...  
@@ -844,15 +1234,23 @@ this is not for piracy.. i know by the way thanks a lot
   
 hope you will help more problem techie people like me
 
+**Anonymous** - *2011-03-18T04:55:24.073-04:00*
+
 OMFG THIS IS BRILLIANT!!! I almost cried when i got a virus (stupidly disabled my antivirus while installing a game) and it corrupted my windows installation. I did the repair but some files couldn't be copied, or so windows said. when the repair finished and i tried to login, that stupid product activation locked me out.. it wouldn't accept my key or anything. thanks to this little trick, i now have my pc back to normal. i have emails dating back to 2002 with important information on them so i was glad i didn't lose them - once i could login and run my activation killer, everything went back to normal :)  
   
 THANK YOU SO MUCH FOR THIS GREAT TUTORIAL!
 
+**Anonymous** - *2011-03-30T19:57:30.447-04:00*
+
 Thank you it works...
+
+**Unknown** - *2011-04-08T00:41:12.870-04:00*
 
 Dude, Thank you. So much.  
   
 WHERE THERE IS A WILL, THERE IS A WAY MY FRIENDS.
+
+**Anonymous** - *2011-04-11T00:44:57.099-04:00*
 
 I have been re-installing Windows XP every 30 days for the past few years. Its only a 2 hours reinstallation procedure every 30 days and it keeps me from shelling out \*ANOTHER\* $149.99 of my hard earned cash as Microsoft refuses to let me use my purchased XP after a Motherboard+VideoCard+Wifi+Hard drive upgrade at once.  
   
@@ -860,7 +1258,11 @@ Plus, you will not lose your files if you do a re-install, just dont reformat, l
   
 I think I will be retiring soon this copy of Windows XP and will be installing Ubuntu as soon as XP expires on me this one last time, I would not have to deal with this again.
 
+**Anonymous** - *2011-05-03T13:05:00.724-04:00*
+
 My THANKS to the author ,i live in spain, locked out of win xp, spent fortune phone uk, end up with,,,PAY 46 pound for assistance, now accessing vip files and attempt a reactivate. THANKYOU, Adrian
+
+**Anonymous** - *2011-05-05T00:49:48.041-04:00*
 
 Thank you very much  
 I was even not able to excess my files after this expiry.  
@@ -869,34 +1271,58 @@ I tried to oped drive c: and in options "save link as" window and copy paste opt
 Thanks once again  
 Amit
 
+**Anonymous** - *2011-06-07T01:36:47.516-04:00*
+
 I tried this once, it worked and I was relieved (it was an important server for our hotel system, the OS was original but I had lost the code). Then I try it again today and am horrified that I CAN NO LONGER CLICK THE LINK. (It is not active, or the "arrow does not become a hand to click)  
   
 Please help :O
+
+**Chiquita** - *2011-06-12T18:06:48.645-04:00*
 
 Thank you for showing me how to get access to the internet when blocked out by the widnows activation.  
   
 I just applied this patch and my computer is up and running. Back to work! thanks!!!! I owe ya big..sending great vibes your way:)  
 http://thepiratebay.org/torrent/4890013/XP\_SP3\_%5BAntiWPA%5D\_Activator\_x86\_%2832-bit%29\_and\_x64\_%2864-bit%29\_\_\_\_INFE
 
+**Anonymous** - *2011-06-12T23:21:14.401-04:00*
+
 If you had firefox open it and dispose somthing and click go to containing folder it will start explorer.exe showing the desktop then open taskmanager.... Then u can do anything
+
+**Anonymous** - *2011-06-23T12:21:49.372-04:00*
 
 Using VMlite, it was a small challenge for a Dell OEM image. I used this method with the narrator to get to my dropbox account where I had a copy of Wpakill. It was zipped so I downloaded it. Then went into safe mode with command prompt and launched explorer.exe. Uninstalled the antivirus that kept gobbling up the wpakill.dll's. unzipped, Launched the wpakill batch file. Rebooted, rebooted again to clear up errors. All is working.
 
+**Anonymous** - *2011-07-24T06:08:36.908-04:00*
+
 all you have to do is very simple delet the hldr file from system loaded drive ie, c:\. by booting into other drive having 2nd operating system say f:\. this works 100% next you boot with the troubled operating system very easily. try it.
+
+**Anonymous** - *2011-08-04T13:19:03.300-04:00*
 
 Or you could just go into safe mode with a DOS prompt; type explorer.exe and have a full safe mode machine running allowing you to bypass the activation with a hack ;).  
   
 this is easier. and work on sp3
 
+**Anonymous** - *2011-09-02T01:15:26.345-04:00*
+
 AWESOME
+
+**Masum** - *2011-10-07T02:59:46.364-04:00*
 
 Thanks so much I have been looking for something like this so bad.
 
+**Anonymous** - *2011-11-25T02:20:34.480-05:00*
+
 it has been fixed on windows xp sp3 as far as i can tell. i found a link but nothing happened when i clicked on it.
+
+**Anonymous** - *2011-12-15T15:00:22.895-05:00*
 
 Excuse me .. i am desperate to get access to my machine and this trick won't work for me ... :( i ve tries that and the and the narrator window opens and closes faster than you could be able to do anything . you barely can see it open and close at the same time by itself . is there a similar way for me to get access ? I am really grateful for you time and i thank you in advance for your help .. And just for the reccord i am not a pc pro so i would please you not to be too short and to include details in your answer . Thank you one more time for your help . I really appreciate it .
 
+**Anonymous** - *2011-12-26T19:27:27.367-05:00*
+
 If you want explorer stay open, then you can download a free os called ReactOS, If you then Run the OS off a CD or Memory stick and Copy the file "explorer\_new" from C:\ReactOS and Copy it to C:\Windows along with "notyfyhook.dll" from C:\ReactOS\System32 into C:\windows\System32, you can run this instead of explorer.exe and it will not close, BUT it's not completely the same as windows and is experimental, but if you're desperate, it's out there. (Or download Windows 8 :))
+
+**Anonymous** - *2011-12-28T23:00:19.541-05:00*
 
 Thanks  
 Got me out of a legitimate jam when presented with a laptop with no network drivers installed & expired activation..  
@@ -905,10 +1331,16 @@ Managed to get in install said drivers & then activate
   
 Saved HOURS
 
+**Anonymous** - *2012-01-25T09:25:17.512-05:00*
+
 I have a locked netbook (won't let me log in) When I press Windows logo key+ U (according to the instructions)  
 a window comes up but closes immediately, before I can even see it. What's wrong??
 
+**Anonymous** - *2012-02-15T16:17:10.857-05:00*
+
 Cudos to You!!! You saved me 2 hr's of work!!! Pure h\*cking!!!
+
+**samgoober** - *2012-04-14T01:24:41.761-04:00*
 
 Without reading through all 216 posts to see if this has yet to be posted, the following instructions WILL work on XP:  
   
@@ -922,12 +1354,20 @@ Afterward, reboot. Your PC should now give you a new 30 days to activate it. Thi
   
 Good luck, Sam
 
+**Tigerstyle** - *2012-04-24T04:55:03.708-04:00*
+
 lmao... just boot into the normal safe mode option ;)
+
+**Anonymous** - *2012-06-23T18:18:39.813-04:00*
 
 Mine problem is im using xp sp3 and i got the same erorr on welcome window like it requires activation and when i go yes it says windows is allready activated :S
 
+**Unknown** - *2012-11-04T02:00:16.636-05:00*
+
 nice idea  
 thank you
+
+**sann** - *2013-04-05T06:02:40.170-04:00*
 
 Excellant post. It worked for me and i have copied all the important data. Thank you!!!!  
   
