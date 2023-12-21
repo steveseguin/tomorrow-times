@@ -1,0 +1,1 @@
+Seems like in order to sell Vista, they need to lock down XP. Maybe it's time to move on and get a Mac or Linux as others suggested?

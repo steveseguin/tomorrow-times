@@ -1,0 +1,3 @@
+I used to subscribe to the formula of upgrading to the latest windows on my work machines everytime they came out with something new. but this product registration bit is a form of illegal tyranny in my book and I no longer use windows  
+  
+Mac is the way to go. It does everything I need and no longer do I have to put up with someone else telling me what I can or cannot do or when I will do it with my machine.

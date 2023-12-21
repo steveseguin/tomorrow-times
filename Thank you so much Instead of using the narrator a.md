@@ -1,0 +1,1 @@
+Thank you so much. Instead of using the narrator all I did was go to the window were it visit windows website. Searched for a crack on my laptop and downloaded it burnt on a cd transfered it to my pc and installed the activation crack and now it works . I completely forgot about using the directories in IE if it werent for this blog I would have reformated my pc.

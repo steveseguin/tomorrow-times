@@ -1,0 +1,3 @@
+I have found that with Vista or W7if your 30 day grace period is about to expire you can simply change the date on your computer to a previous date to alot you more time before it locks up. (must deactivate automatic date synchronization)   
+  
+Also if you have an illegitamate copy of Vista or W7 and a windows update invalidates your license, you are able to log on with limited usability and can restore to a previous date(most likely created before the updates are installed) which will un-invalidate your license, and allow you to hide the problematic update.

@@ -1,0 +1,1 @@
+Is Twitter doomed?  

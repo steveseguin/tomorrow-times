@@ -1,0 +1,1 @@
+If you are worried about file access in event of ANY opperating system failing to load for whatever reason then go to http://www.nu2.nu/pebuilder/ and spend a couple hours tobuild your own bootable XP baised CD. Toss it in a drawer and forget it. Someday you'll be glad you did.

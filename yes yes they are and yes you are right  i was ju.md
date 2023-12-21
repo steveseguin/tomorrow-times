@@ -1,0 +1,1 @@
+yes. yes they are and yes you are right. i was just low on topic ideas.

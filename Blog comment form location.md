@@ -1,0 +1,1 @@
+FULL\_PAGE

@@ -1,0 +1,1 @@
+Mine problem is im using xp sp3 and i got the same erorr on welcome window like it requires activation and when i go yes it says windows is allready activated :S

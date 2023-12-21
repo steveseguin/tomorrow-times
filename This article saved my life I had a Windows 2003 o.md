@@ -1,0 +1,2 @@
+This article saved my life. I had a Windows 2003 on a Virtual PC that had wrong network settings (a static internal IP address assigned). And the activation grace period expired. I was unable to active the OS because of the wrong network settings.  
+Thanks to this article I was able to gain access to the Control Panel and remove the static addresses that were blocking the access to the activation center.

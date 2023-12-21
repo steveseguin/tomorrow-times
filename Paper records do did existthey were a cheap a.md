@@ -1,0 +1,1 @@
+Paper records do (did) exist...they were a cheap at home alternative in the 40s.

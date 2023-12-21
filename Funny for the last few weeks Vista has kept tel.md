@@ -1,0 +1,1 @@
+Funny... for the last few weeks Vista has kept telling me it was going to expire, today every hour it has reminded me to back everything up, it got to zero hours a couple of hours ago so I rebooted and it's still working....hehehehe

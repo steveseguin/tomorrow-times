@@ -1,0 +1,1 @@
+Quite simple once you think of it... but neat. Nice info Steve!

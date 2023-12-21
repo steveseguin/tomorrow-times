@@ -1,0 +1,1 @@
+What would some people suggest then as an alternative to alexa? Google Trends has potential, although it has limited features for users to access.

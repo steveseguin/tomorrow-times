@@ -1,0 +1,1 @@
+Not to tout Linux or any of the other alternatives but FUCK MICROSHIT WINDOWS. I use it. I hack it when I can, it sucks most of the time. You are in love with it? Get help.

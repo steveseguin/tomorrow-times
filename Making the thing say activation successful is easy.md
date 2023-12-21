@@ -1,0 +1,1 @@
+Making the thing say activation successful is easy. I've done that myself. Making the game actually run is something completely different, and no one has managed that yet.

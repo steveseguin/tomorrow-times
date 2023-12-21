@@ -1,0 +1,1 @@
+Haha. The windows key - u thing isn't even necessary. If you have an invalid cd key, just click activate online. Say no to the registration. It will then tell you that you are not able to activate, and will give you a link in much the same manner as the above mentioned method. I'm leaving this comment in an unactive windows =O

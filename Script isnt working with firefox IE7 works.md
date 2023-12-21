@@ -1,0 +1,1 @@
+Script isn't working with firefox. IE7 works.

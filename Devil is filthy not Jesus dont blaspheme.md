@@ -1,0 +1,1 @@
+Devil is filthy, not Jesus, don't blaspheme!

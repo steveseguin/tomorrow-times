@@ -1,0 +1,1 @@
+What user context does this run under? Does it give you full administrator privileges? If so, you've just discovered a huge local system security hole--equivalent to clicking "cancel" on Windows 95/98.

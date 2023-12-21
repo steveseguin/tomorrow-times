@@ -1,0 +1,3 @@
+This is a great workaround, I don't think it has anything to do with piracy at all. My case in point is a machine that I bought second hand with XP installed, but the guy I bought it off had reinstalled, but not activated the OS. This trick would at least have allowed my daughter some functionality until I chased down microsoft and "pleaded my case".  
+Thumbs up.  
+PS I did boot it with Leenucks (however you want to pronounce it) but my teenage daughter just isn't that.

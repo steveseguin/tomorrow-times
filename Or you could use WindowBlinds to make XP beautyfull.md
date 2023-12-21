@@ -1,0 +1,1 @@
+Or you could use WindowBlinds to make XP beautyfull.

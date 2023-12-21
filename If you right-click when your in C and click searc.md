@@ -1,0 +1,1 @@
+If you right-click when your in C: and click search on any of the folders, the task bar opens up, for only 30 seconds, and you can access your desktop and all your files. PS After your 30-45 second glory period it closes all the programs that aren't currently restored (not minimized)

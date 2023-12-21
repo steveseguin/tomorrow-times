@@ -1,0 +1,1 @@
+I got a canon A540 for xmas and have been trying to learn a little more about it and fn your blog interesting and helpful to someone starting out knowing absolutely nothing. so just ignore mr.hateful up there. thanks for the info and the link.

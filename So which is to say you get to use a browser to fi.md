@@ -1,0 +1,3 @@
+So which is to say, you get to use a browser to find the next Vista WGA activation/hack for the O/S...  
+Oh well, perpetual demoware is better than nothing, but then again so is Linux!  
+If only the marketplace would demand more software be written in both Linux and Windows O/S, but no commercial profit to be gained to write for a free o/s, eh?

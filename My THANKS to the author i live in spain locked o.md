@@ -1,0 +1,1 @@
+My THANKS to the author ,i live in spain, locked out of win xp, spent fortune phone uk, end up with,,,PAY 46 pound for assistance, now accessing vip files and attempt a reactivate. THANKYOU, Adrian

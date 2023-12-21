@@ -1,0 +1,1 @@
+I did this myself one time when my windows expired to soon because I did some mess with the date and time properties. But i went by another way, where windows was also proposing to visit the windows site or somethin.

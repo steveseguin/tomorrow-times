@@ -1,0 +1,1 @@
+hmm, this could be handy because my vista will apparantely expire tomorrow, ah well I still have OS X (what? you say), as for Linux I installed Fedora 6 but the damn thing always freezes during startup, plus there are no drivers for half of my hardware

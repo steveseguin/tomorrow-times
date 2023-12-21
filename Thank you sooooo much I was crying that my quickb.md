@@ -1,0 +1,1 @@
+Thank you sooooo much! I was crying that my quickbooks file was trapped in there inside a parallels for Mac VM.

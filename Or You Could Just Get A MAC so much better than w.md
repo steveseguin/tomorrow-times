@@ -1,0 +1,1 @@
+Or You Could Just Get A MAC, so much better than windows.

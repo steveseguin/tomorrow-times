@@ -1,0 +1,1 @@
+I tried this trick on windows vista business and run timestop. It works perfectly! Now, my friend's computer is working again without reinstalling vista. Thanks for this tip.

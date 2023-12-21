@@ -1,0 +1,1 @@
+On your internet browser go to downloads and open containing folder (If you've got any). From there you can use MY COMPUTER!

@@ -1,0 +1,1 @@
+I dont get this to work now. i dont know if mickrofot done some thing or whot but when i press windows key and U i see some think plupp upp for 0.02 sec but i do not get the nerriator or somke thing. and to click forword to get the webpage dont work to bekose my nic driver is not working propely so it says i nide internet acsess so i am stuck in a loop

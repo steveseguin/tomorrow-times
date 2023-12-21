@@ -1,0 +1,1 @@
+Or once you've installed linux you could just go and play on the highway during rush hour. cause that's its the same. the person that runs ya over is the person that bought a copy of windows xp and activated it after installing it like its supposed to be done. jew1

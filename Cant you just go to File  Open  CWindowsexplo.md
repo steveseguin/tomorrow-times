@@ -1,0 +1,1 @@
+Cant you just go to File > Open > C:\Windows\explorer.exe in internet explorer?

@@ -1,0 +1,1 @@
+I've used Linux and Windows for years. Both suck, Windows sucks less

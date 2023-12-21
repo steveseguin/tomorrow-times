@@ -1,0 +1,1 @@
+Thanks, you saved me a reformat.. I used Antiwpa to lose the annoying activation.
