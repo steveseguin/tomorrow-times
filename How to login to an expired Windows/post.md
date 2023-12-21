@@ -1,3 +1,10 @@
+# How to login to an expired Windows
+
+*Author: Steve*
+*Published on: 2006-12-13T02:16:00.000-05:00*
+
+---
+
 [![](gui16.gif)](http://bp0.blogger.com/_kfv2ADnjgQg/RX-tPUNyVKI/AAAAAAAAABg/5U8zHgPsmLA/s1600-h/gui16.gif) Microsoft has a neat little way to prevent software piracy of their Windows operating system. "Windows Genuine Advantage"[edit: I stand corrected, it has nothing to do with WGA] with its "Product Activation" requirement. Essentially, even with a valid product key, you still need to activate your Windows to ensure that only one computer is using that specific product key. If you can't activate your Windows, there being many reasons for this, you are left with a 30 day grace period to change your product key to one that is fully valid or get in contact with Microsoft and plea your case.  
   
 Once your grace period is up, Windows refuses to let you login anymore. You cannot access your files. You cannot go on the Internet. You cannot do anything, except the thrill of trying to activate Windows.  

@@ -1,3 +1,10 @@
+# Upcoming trendy web sites
+
+*Author: Steve*
+*Published on: 2007-03-04T20:17:00.000-05:00*
+
+---
+
 [![](compact_header_logo.gif)](http://bp2.blogger.com/_kfv2ADnjgQg/RetyoR_cERI/AAAAAAAAAA8/RbOWlcxVKdY/s1600-h/compact_header_logo.gif)  
 [Alexa.com](http://www.alexa.com) has a [neat online tool](http://www.alexa.com/site/ds/movers_shakers?lang=en) for displaying the web sites with the most dramatic upwards and downward trends of the internet. Most of the trendy sites listed I have never even heard of and are actually pretty cool. If you are into being *chic* and want to impress your friends with your trendy internet skills, it might be worth your time to check the link out. `Cause you cool like that.  
   

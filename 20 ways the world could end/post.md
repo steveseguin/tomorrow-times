@@ -1,3 +1,10 @@
+# 20 ways the world could end
+
+*Author: Steve*
+*Published on: 2007-02-28T13:10:00.000-05:00*
+
+---
+
 [![](earth_impending_comet.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/ReXHPLMDJQI/AAAAAAAAAAw/ReVMcV1U9gw/s1600-h/earth_impending_comet.jpg)  
 [Discover.com](http://www.discover.com) has an interesting list of the top 20 ways the world could end.  
   

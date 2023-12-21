@@ -1,3 +1,10 @@
+# So.. questions about the new iPhone?
+
+*Author: Steve*
+*Published on: 2008-06-10T01:06:00.001-04:00*
+
+---
+
 Well, the new iPhone 3G has been introduced and lots of details have been spilled, but there are probably lots of questions remaining. Anyone have a question that needs answering? Leave a comment with your question!  
   
 I have a question myself though, that anyone who knows the answer to I would love to hear from. I currently have a 2-year voice plan with Rogers (one of two soon-to-be Canadian iPhone providers) yet no data plan. According to what information I can find, the iPhone in Canada will be selling for $ 199/299, with a new three year contract. From what I can tell from other sources, there will be no retail sales of the iPhone.  

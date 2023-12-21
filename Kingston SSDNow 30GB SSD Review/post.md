@@ -1,3 +1,10 @@
+# Kingston SSDNow 30GB SSD Review
+
+*Author: Steve*
+*Published on: 2010-04-12T04:16:00.000-04:00*
+
+---
+
 Here is a quick summary and review of my initial experience with a Kingston SSDNow 30GB SSD.  
 ![](3778lsa.jpg)  
 This solid state drive cost me $69 CAD on sale, although it usually retails for about $100. As it stands, this is currently the least expensive solid state drive on the market that is suitable for use as a system boot drive. While faster and more spacious drives do exist, this drive offers exceptional value and is a great choice for those on a budget. Unlike some older value solid state drives, this Kingston 30GB SSD is a second generation drive that includes TRIM support. While TRIM support is a nice bonus if you have Windows 7 installed, for use as a system boot drive it shouldn't make a big difference.  

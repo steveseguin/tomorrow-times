@@ -1,3 +1,10 @@
+# What on earth is Twitter?
+
+*Author: Steve*
+*Published on: 2008-06-01T18:08:00.000-04:00*
+
+---
+
 [![](tour_1.gif)](http://bp3.blogger.com/_kfv2ADnjgQg/SEMlWZm9-lI/AAAAAAAABJo/Nx4NDe1g9WQ/s1600-h/tour_1.gif)  
 What can truly be best described as an Internet phenomenon, Twitter.com has caught on like wild fire among the social crowd and techies. But will it catch on with the mainstream crowd?  
   

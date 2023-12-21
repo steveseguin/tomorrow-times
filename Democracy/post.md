@@ -1,3 +1,10 @@
+# Democracy
+
+*Author: Steve*
+*Published on: 2019-12-23T19:45:00.000-05:00*
+
+---
+
 Democracy has been imprinted in my brain as a generally positive concept. During my upbringing there was little personal experience to know just how well it was working though. While there was a sense of peace and prosperity around me that seemed to validate that it was the best system available, it takes time to see patterns emerge in such systems and to really understand their true behaviour.  
 
   

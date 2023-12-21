@@ -1,3 +1,10 @@
+# New all natural PEPSI product
+
+*Author: Steve*
+*Published on: 2008-03-08T02:26:00.000-05:00*
+
+---
+
 [![](rawpepsiDM1002_468x171.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/R9I__1ODPUI/AAAAAAAAAzU/D5cYgCqzlMo/s1600-h/rawpepsiDM1002_468x171.jpg)  
 I never liked the fact Pepsi used corn-based fructose sugar in its cola and aspartame in its diet cola. I felt my only options were diabetes or brain cancer. Well, now we all may soon have a new alternative -- Pepsi RAW.   
   

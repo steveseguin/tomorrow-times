@@ -1,3 +1,10 @@
+# The Hard Drive Capacity Calculator
+
+*Author: Steve*
+*Published on: 2007-08-07T00:54:00.000-04:00*
+
+---
+
 Curious why when you buy an iPod, computer hard drive, or memory stick there is less memory actually available then what was advertised?  
   
 For example, you buy a new laptop, advertised having 100GB of hard drive space, actually only seems to have 93GB available? It almost seems as if there is false advertising involved. I'm sorry to say, this isn't the case, rather just a tricky usage of terminology used by memory manufactures. Let me try to explain...  

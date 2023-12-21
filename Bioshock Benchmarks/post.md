@@ -1,3 +1,10 @@
+# Bioshock Benchmarks
+
+*Author: Steve*
+*Published on: 2007-08-27T18:15:00.000-04:00*
+
+---
+
 For those who are interested, I have done some BioShock benchmarks.  
 [![](benchmarks.jpg)](http://bp1.blogger.com/_kfv2ADnjgQg/RtNNTd1bCYI/AAAAAAAAADM/xiUn20h67tI/s1600-h/benchmarks.jpg)  
   

@@ -1,3 +1,10 @@
+# Western Digital 500GB Black RE3 Hard Drive Review
+
+*Author: Steve*
+*Published on: 2010-04-18T16:21:00.000-04:00*
+
+---
+
 I purchased a 500GB Western Digital RE3 hard drive the other day to replace a failed OCZ Vertex SSD.  I needed something dependable, so the Raid Edition 3 series seemed like a good choice.  It has a 16MB cache and a SATA II interface. It says right on the drive that it is an enterprise class solution, with a 5 year warranty.  Very expensive however, nearly double the cost of the standard WD Black edition drives.  
 
   

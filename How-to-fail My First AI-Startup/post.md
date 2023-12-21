@@ -1,3 +1,10 @@
+# How-to-fail: My First AI-Startup
+
+*Author: Steve*
+*Published on: 2019-07-22T10:42:00.002-04:00*
+
+---
+
 In 2012/2013, I helped found a startup that focused on product identification of Pinterest images using computer vision and machine learning. In those days, convolution neural networks were still largely a guarded secret, with access to Google's DistBelief code (a private precursor to Tensorflow) being only wished for. MATLAB was the primary tool for which our small team of University of Toronto master students explored CNN with. I myself was writing our production code using Python-based SVMs, histograms, perceptual hashes, segmentation systems, and more.  
 
 

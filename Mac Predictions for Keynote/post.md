@@ -1,3 +1,10 @@
+# Mac Predictions for Keynote
+
+*Author: Steve*
+*Published on: 2008-06-09T12:55:00.000-04:00*
+
+---
+
 Quickly before the keynote starts, here are my predictions.  
   
 Touchscreen-based tiny laptop/tablet.  

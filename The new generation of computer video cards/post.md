@@ -1,3 +1,10 @@
+# The new generation of computer video cards
+
+*Author: Steve*
+*Published on: 2006-12-10T23:31:00.000-05:00*
+
+---
+
 [![](http://www.theinquirer.net/images/articles/leadgs1.jpg)](http://www.theinquirer.net/images/articles/leadgs1.jpg)  
   
 Every now and then computer graphics cards undergo a major structural overhaul that leaves previous generation cards in the dust. This time of change is once again upon the world with the introduction of DirectX 10.  

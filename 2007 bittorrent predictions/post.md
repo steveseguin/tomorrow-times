@@ -1,3 +1,10 @@
+# 2007 bittorrent predictions
+
+*Author: Steve*
+*Published on: 2007-01-04T04:16:00.000-05:00*
+
+---
+
 [![](bittorrent-for-dummies-book-cover.jpg)](http://bp0.blogger.com/_kfv2ADnjgQg/RZzJRuvYGPI/AAAAAAAAAFM/vWnJEahQhqQ/s1600-h/bittorrent-for-dummies-book-cover.jpg)  
 [Torrentfreak](http://torrentfreak.com/2007-bittorrent-predictions/) has some amusing bittorrent related predications for 2007. My favorite:  
   

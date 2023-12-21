@@ -1,3 +1,10 @@
+# Recycling your pets, another leap forward
+
+*Author: Steve*
+*Published on: 2006-12-16T17:47:00.000-05:00*
+
+---
+
 [![](imageDN20212142243.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/RYR3iR6ghEI/AAAAAAAAAEE/gYQWFzFjqSM/s1600-h/imageDN20212142243.jpg) The world's first cloned cat has kittens! According to a story at [CBS News,](http://www.cbsnews.com/stories/2006/12/15/ap/tech/mainD8M138V84.shtml) 
 > *"Copy Cat, who was cloned by Texas A&M University researchers in 2001, had three kittens in September. Mother and kittens are doing well..."*
 > 

@@ -1,3 +1,10 @@
+# How to do Street Photography
+
+*Author: Steve*
+*Published on: 2016-01-10T01:48:00.000-05:00*
+
+---
+
 Street photography is one of those sexy styles of art that many think are reserved for retired photographic professionals with $12,000 camera systems, so many don't even give it a shot. Those enthusiastic enough to make it onto the street with camera in hand though carry high levels of expectation, which they will not live up to. More than likely, someone trying street photography out for the first time will give up just as quickly as they started.  
 
 

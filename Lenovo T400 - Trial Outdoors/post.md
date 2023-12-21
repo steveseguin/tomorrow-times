@@ -1,3 +1,10 @@
+# Lenovo T400 - Trial Outdoors
+
+*Author: Steve*
+*Published on: 2009-03-18T17:39:00.000-04:00*
+
+---
+
 It has been a long winter up here in Canada and with the warm, sunny weather now approaching, computer users attempt to migrate outside with their laptops to soak up some much needed Vitamin D. One problem though -- not all notebooks displays are readable in bright light.  
   
 I wanted to try out my Lenovo Thinkpad T400 notebook outside today, as the weather was finally somewhat warm and the sun was shining. I bought the T400 a few months ago in hopes of the screen being usable outside in direct sunlight, but I was unable to actually test it until now.  

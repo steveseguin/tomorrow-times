@@ -1,3 +1,10 @@
+# AT&T predicts the future rather well.
+
+*Author: Steve*
+*Published on: 2006-12-08T15:59:00.000-05:00*
+
+---
+
 Here's a fascinating montage of 1993 AT&T ads predicting a technological future. 
 
   

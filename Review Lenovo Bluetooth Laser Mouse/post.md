@@ -1,3 +1,10 @@
+# Review: Lenovo Bluetooth Laser Mouse
+
+*Author: Steve*
+*Published on: 2008-11-26T17:09:00.000-05:00*
+
+---
+
 In an attempt to give back to the community a bit, I am going to giving a review of my experience with Lenovo Canada and two new products I have recently ordered from it online. The two products are the Lenovo T400 14-inch notebook and a Lenovo Bluetooth Laser Mouse.  
   
 Purchasing  

@@ -1,3 +1,10 @@
+# a digital study of Colour
+
+*Author: Steve*
+*Published on: 2009-05-03T00:26:00.000-04:00*
+
+---
+
 I've been doing some programming lately (coding an application to load onto my camera that makes the camera capable of taking high dynamic range photos natively), but writing this application has made me notice a few things about the colour, light intensity and tone of a digital image. There are some things I have taken for granted really about working with coloured images in photoshop, never really having dealt with the nitty gritty details of image enhancements that I'm forced to learn all about now. I feel like sharing a couple of these interesting insights, however obvious they seem to be.  
   
 First off, lets explore how important the varying levels of brightness is to a photo. Take, for example, this following image.  

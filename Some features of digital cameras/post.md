@@ -1,3 +1,10 @@
+# Some features of digital cameras
+
+*Author: Steve*
+*Published on: 2006-12-15T00:20:00.000-05:00*
+
+---
+
 [![](noise.png)](http://bp1.blogger.com/_kfv2ADnjgQg/RYI4I0NyVOI/AAAAAAAAACY/aSgj2FsrYv0/s1600-h/noise.png)Most of us already have a digital camera that suits our needs. Quite possibly it's a brand of camera you bought at Walmart on sale that no one has ever heard of before, maybe it's the one integrated into your cell phone, or maybe your camera doesn't suck and you are thinking to yourself, *what is the point of this article!?*  
   
 Well, I'm hoping to share a short list of some of the commonly overlooked or new features of digital cameras today that you might be missing out on. You might even find them all just enough of a reason to change what you are hoping for this Christmas.  

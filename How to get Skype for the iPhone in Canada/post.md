@@ -1,3 +1,10 @@
+# How to get Skype for the iPhone in Canada
+
+*Author: Steve*
+*Published on: 2009-03-31T22:49:00.001-04:00*
+
+---
+
 [![](Image3.png)](http://2.bp.blogspot.com/_kfv2ADnjgQg/SdLdf9xmKuI/AAAAAAAADys/Sg5PB44xRc0/s1600-h/Image3.png)  
 It seems every country was able to download and install Skype for the iPhone as of today... except for Canada. Apparently it was due to some patent-licencing issues.. I really wanted Skype though since I have unlimited incoming calls on my iPhone, but no long distance features and limited outgoing minutes; Skype-out would be a great way for me to save some money.  
   

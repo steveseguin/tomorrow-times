@@ -1,3 +1,10 @@
+# 2007 Reality TV Winter Preview
+
+*Author: Steve*
+*Published on: 2007-01-04T04:35:00.000-05:00*
+
+---
+
 [![](geek.jpg)](http://bp0.blogger.com/_kfv2ADnjgQg/RZzNIuvYGQI/AAAAAAAAAFY/BEED1Xuc6YI/s1600-h/geek.jpg)  
 Here's a sneak peak at what's on primetime this winter, covered in full by [realitytvworld.com](http://www.realitytvworld.com/news/2007-reality-tv-winter-preview-coming-soon-tv-near-you-4477.php)  
   

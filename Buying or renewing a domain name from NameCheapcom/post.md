@@ -1,3 +1,10 @@
+# Buying or renewing a domain name from NameCheap.com
+
+*Author: Steve*
+*Published on: 2023-07-14T22:49:00.006-04:00*
+
+---
+
 If you are buying domain names from Namecheap, a 20%-off coupon code that has long worked for me on most purchases is:# **COUPONFCNC**
 
 Other tips:  

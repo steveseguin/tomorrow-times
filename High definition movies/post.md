@@ -1,3 +1,10 @@
+# High definition movies
+
+*Author: Steve*
+*Published on: 2006-12-11T16:25:00.000-05:00*
+
+---
+
 [![](126163-BluRay_group.jpg)](126163-BluRay_group.jpg)  
   
 There is a lot of buzz this season in regards to high definition movies. Even for enthusiasts, the topic can still be a bit overwhelming to fully understand. What is a high definition movie? What is needed to play them? And what does the future hold for them?  

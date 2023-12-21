@@ -1,3 +1,10 @@
+# New AIDS drug shows 'phenomenal' results
+
+*Author: Steve*
+*Published on: 2007-01-03T08:34:00.000-05:00*
+
+---
+
 [![](aids_ribbon.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/RZuzbevYGOI/AAAAAAAAAFA/Vp7FiBVeGYY/s1600-h/aids_ribbon.jpg) Clinical studies of the drug, called an integrase inhibitor, showed that, when combined with two existing drugs, it reduced the virus to undetectable levels in nearly 100 percent of HIV patients prescribed a drug regimen for the first time, The Los Angeles Times said Tuesday.  
   
 It had a similar effect in 72 percent of salvage therapy patients, who take a mixture of existing medications aimed at stalling the virus until new drugs appear. The drug essentially prevents the virus' DNA from integrating with a host's cells, inhibiting its ability to replicate itself.  

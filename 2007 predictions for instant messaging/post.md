@@ -1,3 +1,10 @@
+# 2007 predictions for instant messaging
+
+*Author: Steve*
+*Published on: 2007-01-07T02:51:00.000-05:00*
+
+---
+
 [![](111.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/RaCo6GC8EkI/AAAAAAAAAHE/x0mF7DYIgRE/s1600-h/111.jpg) What a great time of year for predictions. Well, here's a few predictions for 2007 in regards to instant messaging. From [bigblueball.com:](http://bigblueball.com)  
   
 

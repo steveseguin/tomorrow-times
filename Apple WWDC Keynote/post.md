@@ -1,3 +1,10 @@
+# Apple WWDC Keynote
+
+*Author: Steve*
+*Published on: 2008-06-09T13:04:00.000-04:00*
+
+---
+
 [![](2008wwdclive184.jpg)](http://bp1.blogger.com/_kfv2ADnjgQg/SE14ia0VJ1I/AAAAAAAABKI/OIqQNZ5cAso/s1600-h/2008wwdclive184.jpg)  
 General Keynote Overview  
 * Lots of free mobile applications, such as eBay and geo-based social networking.

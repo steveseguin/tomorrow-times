@@ -1,3 +1,10 @@
+# The Microphone Purchasing Guide
+
+*Author: Steve*
+*Published on: 2019-12-18T15:16:00.001-05:00*
+
+---
+
 
   
 

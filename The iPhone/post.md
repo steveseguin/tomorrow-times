@@ -1,3 +1,10 @@
+# The 'iPhone'
+
+*Author: Steve*
+*Published on: 2007-01-18T01:03:00.000-05:00*
+
+---
+
 [![](iphone.gif)](http://bp2.blogger.com/_kfv2ADnjgQg/Ra8YQuw3NmI/AAAAAAAAAHc/fL-kaDSum54/s1600-h/iphone.gif)  
   
 You pretty much would of had to been stuck in a coma for the last two weeks to of missed all the media hype behind the newly announced Apple *iPhone.* As the name implies, this handheld electronic device is a cellular phone. It's also though an iPod that can playback music and video, as well as surf the web with its built-in browser. Spiffy stuff I must say.  

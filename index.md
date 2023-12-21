@@ -1,0 +1,106 @@
+# Blog Index
+
+- [Prepping for Nuclear fallout](./Prepping for Nuclear fallout/post.md) - 2023-07-15T00:50:00.021-04:00
+- [Buying or renewing a domain name from NameCheap.com](./Buying or renewing a domain name from NameCheapcom/post.md) - 2023-07-14T22:49:00.006-04:00
+- [Untitled](./Untitled/post.md) - 2020-01-11T07:57:00.001-05:00
+- [Democracy](./Democracy/post.md) - 2019-12-23T19:45:00.000-05:00
+- [The Microphone Purchasing Guide](./The Microphone Purchasing Guide/post.md) - 2019-12-18T15:16:00.001-05:00
+- [Untitled](./Untitled/post.md) - 2019-12-18T14:48:00.001-05:00
+- [Tesla Cybertruck; first thoughts](./Tesla Cybertruck first thoughts/post.md) - 2019-11-24T11:07:00.002-05:00
+- [How-to-fail: My First AI-Startup](./How-to-fail My First AI-Startup/post.md) - 2019-07-22T10:42:00.002-04:00
+- [Exploration: Reversing compression](./Exploration Reversing compression/post.md) - 2017-11-13T01:57:00.001-05:00
+- [How to do Street Photography](./How to do Street Photography/post.md) - 2016-01-10T01:48:00.000-05:00
+- [Gift ideas for Mothers Day 2013](./Gift ideas for Mothers Day 2013/post.md) - 2013-05-04T19:34:00.003-04:00
+- [Western Digital 500GB Black RE3 Hard Drive Review](./Western Digital 500GB Black RE3 Hard Drive Review/post.md) - 2010-04-18T16:21:00.000-04:00
+- [Kingston SSDNow 30GB SSD Review](./Kingston SSDNow 30GB SSD Review/post.md) - 2010-04-12T04:16:00.000-04:00
+- [ATi Radeon 5770: PCIe x16 vs PCIe x8](./ATi Radeon 5770 PCIe x16 vs PCIe x8/post.md) - 2010-03-23T16:21:00.000-04:00
+- [Intel Core i7 860: Stock Cooler and Power Usage](./Intel Core i7 860 Stock Cooler and Power Usage/post.md) - 2009-12-10T11:51:00.000-05:00
+- [A great little anti-virus tool](./A great little anti-virus tool/post.md) - 2009-10-28T11:48:00.000-04:00
+- [Windows 7 Annoyances](./Windows 7 Annoyances/post.md) - 2009-10-26T15:12:00.001-04:00
+- [Contents of the Windows 7 Launch Party pack](./Contents of the Windows 7 Launch Party pack/post.md) - 2009-10-09T19:26:00.000-04:00
+- [Untitled](./Untitled/post.md) - 2009-08-29T04:03:00.000-04:00
+- [Cheapest place to buy computer parts in Canada](./Cheapest place to buy computer parts in Canada/post.md) - 2009-08-17T23:38:00.001-04:00
+- [Which CPU is better? Intel Core i7 920 or Core i7 860](./Which CPU is better Intel Core i7 920 or Core i7 860/post.md) - 2009-08-15T16:09:00.000-04:00
+- [topic ideas?](./topic ideas/post.md) - 2009-08-03T00:54:00.001-04:00
+- [Twitter; needs improvement or its doom?](./Twitter needs improvement or its doom/post.md) - 2009-08-03T00:12:00.000-04:00
+- [Review of the New Dell Studio 15 (1555) Notebook](./Review of the New Dell Studio 15 1555 Notebook/post.md) - 2009-07-29T17:50:00.000-04:00
+- [Joystick nostalgia](./Joystick nostalgia/post.md) - 2009-05-15T22:11:00.000-04:00
+- [a digital study of Colour](./a digital study of Colour/post.md) - 2009-05-03T00:26:00.000-04:00
+- [How to get Skype for the iPhone in Canada](./How to get Skype for the iPhone in Canada/post.md) - 2009-03-31T22:49:00.001-04:00
+- [Lenovo T400 - Trial Outdoors](./Lenovo T400 - Trial Outdoors/post.md) - 2009-03-18T17:39:00.000-04:00
+- [Review: Lenovo S10](./Review Lenovo S10/post.md) - 2009-03-17T19:39:00.000-04:00
+- [Canada Computers' Daily Deal Forecast](./Canada Computers Daily Deal Forecast/post.md) - 2009-03-04T23:22:00.000-05:00
+- [Courts Can Access Private Facebook Profiles](./Courts Can Access Private Facebook Profiles/post.md) - 2009-03-04T18:33:00.000-05:00
+- [Panasonic PZ800 50-inch Plasma Quick Review](./Panasonic PZ800 50-inch Plasma Quick Review/post.md) - 2009-02-01T23:33:00.000-05:00
+- [Lenovo T400 Review](./Lenovo T400 Review/post.md) - 2008-12-23T19:33:00.000-05:00
+- [Lenovo ThinkPad T400: Recovery Tools](./Lenovo ThinkPad T400 Recovery Tools/post.md) - 2008-12-12T16:07:00.000-05:00
+- [Review: Lenovo Bluetooth Laser Mouse](./Review Lenovo Bluetooth Laser Mouse/post.md) - 2008-11-26T17:09:00.000-05:00
+- [Professional Tech Journalist](./Professional Tech Journalist/post.md) - 2008-08-28T01:01:00.000-04:00
+- [DropBox](./DropBox/post.md) - 2008-07-11T16:00:00.000-04:00
+- [How to find & download hard-to-find music](./How to find  download hard-to-find music/post.md) - 2008-06-27T21:41:00.000-04:00
+- [Bill Gates and his thoughts on the future.](./Bill Gates and his thoughts on the future/post.md) - 2008-06-23T19:34:00.000-04:00
+- [The future of CPUs and the GPUs collide](./The future of CPUs and the GPUs collide/post.md) - 2008-06-21T14:55:00.001-04:00
+- [RIM makes some Thunder of it's own](./RIM makes some Thunder of its own/post.md) - 2008-06-10T10:34:00.000-04:00
+- [So.. questions about the new iPhone?](./So questions about the new iPhone/post.md) - 2008-06-10T01:06:00.001-04:00
+- [Apple WWDC Keynote](./Apple WWDC Keynote/post.md) - 2008-06-09T13:04:00.000-04:00
+- [Mac Predictions for Keynote](./Mac Predictions for Keynote/post.md) - 2008-06-09T12:55:00.000-04:00
+- [What on earth is Twitter?](./What on earth is Twitter/post.md) - 2008-06-01T18:08:00.000-04:00
+- [The MSI Wind Ultra Portable Laptop](./The MSI Wind Ultra Portable Laptop/post.md) - 2008-06-01T17:19:00.001-04:00
+- [iPhone's new SDK release is intimidating](./iPhones new SDK release is intimidating/post.md) - 2008-03-08T02:52:00.000-05:00
+- [New all natural PEPSI product](./New all natural PEPSI product/post.md) - 2008-03-08T02:26:00.000-05:00
+- [Interactive 360° Flash-based video](./Interactive 360 Flash-based video/post.md) - 2008-02-26T14:45:00.000-05:00
+- [RIP Stage6.com](./RIP Stage6com/post.md) - 2008-02-09T20:26:00.000-05:00
+- [Play your Last.fm radio station without a subscription](./Play your Lastfm radio station without a subscription/post.md) - 2008-02-06T20:37:00.000-05:00
+- [The Sixty One](./The Sixty One/post.md) - 2008-01-03T00:13:00.000-05:00
+- [The Highlight Awards](./The Highlight Awards/post.md) - 2008-01-02T23:37:00.000-05:00
+- [The future of hard drives](./The future of hard drives/post.md) - 2007-09-27T11:07:00.000-04:00
+- [Paper 'Vinyl' Music Records](./Paper Vinyl Music Records/post.md) - 2007-09-04T01:04:00.000-04:00
+- [bioshock SSL info](./bioshock SSL info/post.md) - 2007-08-30T07:27:00.000-04:00
+- [Bioshock Online Key Generator](./Bioshock Online Key Generator/post.md) - 2007-08-29T18:12:00.000-04:00
+- [Untitled](./Untitled/post.md) - 2007-08-27T18:41:00.000-04:00
+- [Bioshock Benchmarks](./Bioshock Benchmarks/post.md) - 2007-08-27T18:15:00.000-04:00
+- [working bioshock crack](./working bioshock crack/post.md) - 2007-08-26T16:56:00.000-04:00
+- [BioShock Demo Review](./BioShock Demo Review/post.md) - 2007-08-21T14:53:00.000-04:00
+- [Logitech LX 500 Review](./Logitech LX 500 Review/post.md) - 2007-08-19T22:03:00.000-04:00
+- [Logitechddddd](./Logitechddddd/post.md) - 2007-08-19T21:59:00.000-04:00
+- [Bioshock Leak for PC and XBOX 360](./Bioshock Leak for PC and XBOX 360/post.md) - 2007-08-19T01:30:00.000-04:00
+- [The Hard Drive Capacity Calculator](./The Hard Drive Capacity Calculator/post.md) - 2007-08-07T00:54:00.000-04:00
+- [Review: Canon S3 IS Digital Camera](./Review Canon S3 IS Digital Camera/post.md) - 2007-05-29T21:02:00.000-04:00
+- [Free Starbucks coffee March 15](./Free Starbucks coffee March 15/post.md) - 2007-03-08T10:31:00.000-05:00
+- [Upcoming trendy web sites](./Upcoming trendy web sites/post.md) - 2007-03-04T20:17:00.000-05:00
+- [20 ways the world could end](./20 ways the world could end/post.md) - 2007-02-28T13:10:00.000-05:00
+- [V Day](./V Day/post.md) - 2007-02-01T21:57:00.000-05:00
+- [Bill Gates to appear on The Daily Show!](./Bill Gates to appear on The Daily Show/post.md) - 2007-01-26T20:12:00.000-05:00
+- [2007 - a good year for the trigger happy](./2007 - a good year for the trigger happy/post.md) - 2007-01-26T02:34:00.000-05:00
+- [The 'iPhone'](./The iPhone/post.md) - 2007-01-18T01:03:00.000-05:00
+- [Movies of 2007](./Movies of 2007/post.md) - 2007-01-18T00:53:00.000-05:00
+- [2007 predictions for instant messaging](./2007 predictions for instant messaging/post.md) - 2007-01-07T02:51:00.000-05:00
+- [Is the high definition format war over?](./Is the high definition format war over/post.md) - 2007-01-05T05:08:00.000-05:00
+- [Flashed based hard drives](./Flashed based hard drives/post.md) - 2007-01-05T04:01:00.000-05:00
+- [What's hot and what's not](./Whats hot and whats not/post.md) - 2007-01-05T00:58:00.000-05:00
+- [2007 Reality TV Winter Preview](./2007 Reality TV Winter Preview/post.md) - 2007-01-04T04:35:00.000-05:00
+- [2007 bittorrent predictions](./2007 bittorrent predictions/post.md) - 2007-01-04T04:16:00.000-05:00
+- [New AIDS drug shows 'phenomenal' results](./New AIDS drug shows phenomenal results/post.md) - 2007-01-03T08:34:00.000-05:00
+- [SED production delayed](./SED production delayed/post.md) - 2007-01-03T07:56:00.000-05:00
+- [Contribute to The Tomorrow Times](./Contribute to The Tomorrow Times/post.md) - 2007-01-03T04:09:00.000-05:00
+- [The trend that is trans fat free](./The trend that is trans fat free/post.md) - 2007-01-03T02:52:00.000-05:00
+- [Cloned meat](./Cloned meat/post.md) - 2007-01-03T02:07:00.000-05:00
+- [Top 10 Future Energy Solutions](./Top 10 Future Energy Solutions/post.md) - 2006-12-16T18:34:00.000-05:00
+- [Recycling your pets, another leap forward](./Recycling your pets another leap forward/post.md) - 2006-12-16T17:47:00.000-05:00
+- [Creating a joint YouTube killer](./Creating a joint YouTube killer/post.md) - 2006-12-16T16:48:00.000-05:00
+- [Some features of digital cameras](./Some features of digital cameras/post.md) - 2006-12-15T00:20:00.000-05:00
+- [How to login to an expired Windows](./How to login to an expired Windows/post.md) - 2006-12-13T02:16:00.000-05:00
+- [Google's Web Toolkit 1.3 RC1 now out](./Googles Web Toolkit 13 RC1 now out/post.md) - 2006-12-13T01:56:00.000-05:00
+- [Dell believes Blu-ray is set to win](./Dell believes Blu-ray is set to win/post.md) - 2006-12-12T16:28:00.000-05:00
+- [Mac + Windows = Easy](./Mac  Windows  Easy/post.md) - 2006-12-12T16:16:00.000-05:00
+- [High definition movies](./High definition movies/post.md) - 2006-12-11T16:25:00.000-05:00
+- [New Rock Groundbreakers](./New Rock Groundbreakers/post.md) - 2006-12-11T03:26:00.000-05:00
+- [Fashion Forecast Winter/Spring 2007](./Fashion Forecast WinterSpring 2007/post.md) - 2006-12-11T02:41:00.000-05:00
+- [Windows Vista](./Windows Vista/post.md) - 2006-12-11T01:24:00.000-05:00
+- [2007 North American International Auto Show](./2007 North American International Auto Show/post.md) - 2006-12-11T01:04:00.001-05:00
+- [The new generation of computer video cards](./The new generation of computer video cards/post.md) - 2006-12-10T23:31:00.000-05:00
+- [Vintage wine in minutes, not years.](./Vintage wine in minutes not years/post.md) - 2006-12-10T23:23:00.000-05:00
+- [Poll: 'hydrogen powered cars'](./Poll hydrogen powered cars/post.md) - 2006-12-10T21:14:00.000-05:00
+- [AT&T predicts the future rather well.](./ATT predicts the future rather well/post.md) - 2006-12-08T15:59:00.000-05:00
+- [Why I choose blogger.com](./Why I choose bloggercom/post.md) - 2006-12-08T15:58:00.001-05:00
+- [Bringing you the news that matters for tomorrow.](./Bringing you the news that matters for tomorrow/post.md) - 2006-12-08T15:38:00.000-05:00

@@ -1,3 +1,10 @@
+# The MSI Wind Ultra Portable Laptop
+
+*Author: Steve*
+*Published on: 2008-06-01T17:19:00.001-04:00*
+
+---
+
 [![](wind6x.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/SEMZTJm9-kI/AAAAAAAABJg/D2hS-7wnF_4/s1600-h/wind6x.jpg)  
 Ever since Asus introduced the EeePC, the ultra cheap, ultra portable, ultra light laptop, things in the laptop industry have found themselves entering new territory.  
 People want a cheap laptop, that is truly mobile, and does the simple tasks they want. They may have a more powerful laptop at home, but most often, we just need something to keep us connected. Where smartphones start to lack, the Asus EeePC picks up, and with the need for connectivity these days, these cheap mobile secondary laptops are making a huge hit!  

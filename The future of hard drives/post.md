@@ -1,3 +1,10 @@
+# The future of hard drives
+
+*Author: Steve*
+*Published on: 2007-09-27T11:07:00.000-04:00*
+
+---
+
 [![](_mg_7197.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/RvvHZ49HTWI/AAAAAAAAAEo/CO2IYvO4eYQ/s1600-h/_mg_7197.jpg)  
 [Tomshardware](http://www.tgdaily.com/content/view/34065/135/) has a preview of an upcoming piece of computer hardware called the IODrive, by Fusion IO. By sticking lots of flash memory chips onto a PCI-express board with a pretty serious parallel memory controller for all the flash chips, Fusion IO has been able to achieve what would seem to be the ideal memory system for modern computers.  
   

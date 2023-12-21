@@ -1,3 +1,10 @@
+# Flashed based hard drives
+
+*Author: Steve*
+*Published on: 2007-01-05T04:01:00.000-05:00*
+
+---
+
 [![](SSD%2520case%2520less%2520with%2520cover%25207.jpg)](http://bp2.blogger.com/_kfv2ADnjgQg/RZ4ZemC8EhI/AAAAAAAAAGg/tHMHdiEi9RI/s1600-h/SSD%2520case%2520less%2520with%2520cover%252072.jpg)  
 The future of hard drives will be solid state. Comparing to present day hard drives, which consist of magnetic round platters being spun at thousands of RPM, solid state drives require less energy to run, they are less prone to damage, physically smaller, noiseless, and potentially much faster in many ways. A limitation though of flash-based solid state hard drives today is that they are limited in data capacity comparatively, as well as being much more expensive.  
   

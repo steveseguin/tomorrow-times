@@ -1,3 +1,10 @@
+# Intel Core i7 860: Stock Cooler and Power Usage
+
+*Author: Steve*
+*Published on: 2009-12-10T11:51:00.000-05:00*
+
+---
+
 I'm just throwing this out there for anyone else running into similar problems as I have been having with my Intel Core i7 860 system. I'm noticing that a lot of heat is being produced from these chips when at full load and especially when overclocked, to the point that I feel the stock CPU cooler from Intel is simply inadequate. The included heatsink/fan included with the Intel Core i7 860 has a low-profile design that is smaller than previous Intel coolers, which seems a bit strange in my opinion considering that these chips are rated at 95W TDP.  
   
 Anyways, I bought two Core i7 860 systems, one featuring a Gigabyte P55M-UD4 motherboard and another one using a Gigabyte P55A-UD4P motherboard (primary board used in this review). Using the stock Intel cooler, I could effortlessly overclock these systems to 3.5GHz using stock voltages. While the systems were stable for all intensive purposes, running Prime95 would cause the core CPU temperatures to shoot up quickly to 100\*C (using RealTemp). Even light gaming would cause the CPU temps to float around 80\*C, while idle temps bounced around at 50\*C. Obviously, using the system at these overclocked settings would be foolish - things get too hot and you may damage your system at these temperatures.  

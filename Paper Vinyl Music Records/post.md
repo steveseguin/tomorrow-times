@@ -1,3 +1,10 @@
+# Paper 'Vinyl' Music Records
+
+*Author: Steve*
+*Published on: 2007-09-04T01:04:00.000-04:00*
+
+---
+
 Curious, but how many of you ever have used a vinyl record before? Im only 24 years old, but I recall the many nights when I was much younger, sitting at my dad's stereo, going thru his record collection, and loving it. Don McLean's American Pie, Tchaivosky's 1812 Overture, or Anne Murray, as some examples that just made a cold winter's night feel warm by listening too.  
   
 In this modern day and age, things have become digital. Digital media. The closest we have to vinyl records today are compact discs, and as amazing as that is, sometimes it's simply too perfect. Sometimes a bit of the old fashioned is where it's at. Sometimes a bit of steampunk is needed.  

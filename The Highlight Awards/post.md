@@ -1,3 +1,10 @@
+# The Highlight Awards
+
+*Author: Steve*
+*Published on: 2008-01-02T23:37:00.000-05:00*
+
+---
+
 [![](steam.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/R3xuDNDVQoI/AAAAAAAAAFg/cotST_a-qe4/s1600-h/steam.jpg)  
 Every now and then I come across products, services, ideas, or people that really stand out amongst the crowd in ways of innovation and quality. So with this new year I want to start giving out awards to these such things. I call these awards, Highlight Awards.  
   

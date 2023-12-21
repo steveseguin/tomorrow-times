@@ -1,3 +1,10 @@
+# Windows 7 Annoyances
+
+*Author: Steve*
+*Published on: 2009-10-26T15:12:00.001-04:00*
+
+---
+
 [![](windows7.png)](http://4.bp.blogspot.com/_kfv2ADnjgQg/Sueg6lYYrUI/AAAAAAAAEto/XtcS4yaQ3XM/s1600-h/windows7.png)  
   
 So Windows 7 has arrived and we can now all start installing it. From my own personal experience of using the beta, the RC, and the final build over the course of the last 10 months, I'd say it is a good operating system. While I don't feel it is worth spending $120 to upgrade to in all cases, if you are able to get if at a discount, either by pre-ordering it or by getting a student discount, it may be worth your while. It may also be worth your while if you are using Windows XP or Windows Vista Home Basic and are looking to upgrade to Windows 7 Home Premium on the cheap.  

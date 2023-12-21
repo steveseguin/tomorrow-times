@@ -1,3 +1,10 @@
+# Bioshock Leak for PC and XBOX 360
+
+*Author: Steve*
+*Published on: 2007-08-19T01:30:00.000-04:00*
+
+---
+
 [![](http://www.armchairempire.com/images/previews/pc/bioshock/bioshock-2.jpg)](http://www.armchairempire.com/images/previews/pc/bioshock/bioshock-2.jpg)  
 So it seems the highly anticipated FPS game has leaked onto the torrent world over the last few days... first the XBOX 360 version, and as of today, the PC version is slowly making its way to hundreds of homes across the globe.   
   

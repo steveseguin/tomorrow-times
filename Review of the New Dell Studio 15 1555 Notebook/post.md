@@ -1,3 +1,10 @@
+# Review of the New Dell Studio 15 (1555) Notebook
+
+*Author: Steve*
+*Published on: 2009-07-29T17:50:00.000-04:00*
+
+---
+
 [![](top.jpg)](http://4.bp.blogspot.com/_kfv2ADnjgQg/SnDG1ODpa4I/AAAAAAAADzw/DroONmsVToU/s1600-h/top.jpg)  
 Hi everyone, welcome to my review of the new Dell Studio 15 (1555) notebook. I have had the notebook in my possession for just a few days as of this writing, so the review at this time will focus mostly on my first impressions of the device. I will update this article as I gain more experience using this system, so check back soon for added information or send me your questions [via email](mailto:punkrawker@gmail.com) for a prompt reply.  
   

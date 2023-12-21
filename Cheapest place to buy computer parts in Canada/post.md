@@ -1,3 +1,10 @@
+# Cheapest place to buy computer parts in Canada
+
+*Author: Steve*
+*Published on: 2009-08-17T23:38:00.001-04:00*
+
+---
+
 [![](Image2.jpg)](http://1.bp.blogspot.com/_kfv2ADnjgQg/So6MA3slHQI/AAAAAAAAD0Q/Hl5PGaL9NYI/s1600-h/Image2.jpg)  
 Introduction With all the available options on the Internet too purchase computer hardware from, which e-retailer offers the best pricing for Canadian consumers? In this article, we are going to briefly compare the prices of five major computer hardware e-retailers and see just who really provides the best overall price.  
   

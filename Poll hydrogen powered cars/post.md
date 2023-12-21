@@ -1,3 +1,10 @@
+# Poll: 'hydrogen powered cars'
+
+*Author: Steve*
+*Published on: 2006-12-10T21:14:00.000-05:00*
+
+---
+
 When people hear all about these new 'hydrogen powered cars', what exactly do think they of? What do you think of?  
   
 

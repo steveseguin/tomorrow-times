@@ -1,3 +1,10 @@
+# New Rock Groundbreakers
+
+*Author: Steve*
+*Published on: 2006-12-11T03:26:00.000-05:00*
+
+---
+
 [![](http://www.mtv.com/bands/m/my_chemical_romance/flipbook_10_04/_MG_3842sm.jpg)](http://www.mtv.com/bands/m/my_chemical_romance/flipbook_10_04/_MG_3842sm.jpg)  
 *My Chemical Romance. Currently #1 New Rock song in my area, Toronto.*  
   

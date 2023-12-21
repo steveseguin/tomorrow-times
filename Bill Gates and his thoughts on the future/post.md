@@ -1,3 +1,10 @@
+# Bill Gates and his thoughts on the future.
+
+*Author: Steve*
+*Published on: 2008-06-23T19:34:00.000-04:00*
+
+---
+
 [![](bill_gates_400.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/SGA3WA4hz3I/AAAAAAAABKg/tIKSOj6eyY8/s1600-h/bill_gates_400.jpg)  
 [In an interview](http://www.extremetech.com/article2/0,2845,2321475,00.asp) between the previous PC Magazine editor and Microsoft's Bill Gates, a lot is discussed about Bill's forecasts of the future on such things as speech recognition and tablet PCs. Bill says it may be considered stubbornness, as he has been saying these same things for the last couple decades without some of his predictions coming true, but he still believes these technologies will become mainstream. Eventually when the market is finally ready.  
   

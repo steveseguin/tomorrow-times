@@ -1,3 +1,10 @@
+# Panasonic PZ800 50-inch Plasma Quick Review
+
+*Author: Steve*
+*Published on: 2009-02-01T23:33:00.000-05:00*
+
+---
+
 [![](40690.jpg)](40690.jpg)I like to review new electronics I buy, even if they are not exactly new to the market. Enter the Panasonic 50PZ800 plasma television, which I picked up yesterday from The Brick (here in Canada) for $1999 (CAD).  
   
 Pricing and Purchase  

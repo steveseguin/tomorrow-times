@@ -1,3 +1,10 @@
+# Review: Canon S3 IS Digital Camera
+
+*Author: Steve*
+*Published on: 2007-05-29T21:02:00.000-04:00*
+
+---
+
 [![](http://www.digitalcameratracker.com/wp-content/uploads/2006/09/canon-s3-is-large.jpg)](http://www.digitalcameratracker.com/wp-content/uploads/2006/09/canon-s3-is-large.jpg) Hey guys. This is my first review of a product on this blog- the Canon S3 IS. I will quickly cover the very basics of this camera, as repeating what can be found on other review sites is not my purpose, rather I want to share my long term impressions of this camera that most review sites overlook.  
   
 The Canon S3 IS is a 6.0 megapixel digital camera, with a 12x image stabilized optical zoom, ISO 80-800, 2.7 aperature, and a 2" rotatable LCD. The camera is feature rich, such as having a button-controlled manual focus, several useful and quickly selectable photo modes, including manual aperature and exposure settings.  

@@ -1,3 +1,10 @@
+# BioShock Demo Review
+
+*Author: Steve*
+*Published on: 2007-08-21T14:53:00.000-04:00*
+
+---
+
 I'll jump right in by saying that this game has some great things going for it, but it definitly has some faults that keep it from being spectacular. At least, so far from what I've witnessed with the demo.  
   
 My frustrations start off with my attempts to download the game. For whatever reason, my 'Preload' of the demo via Fileplanet.com did not work, and in an attempt to get it working, the IGN Download manager eat it up. After waiting in the download queue for a third time, I quickly gave up with trying to download the entire game again via Fileplanet - the speeds were just too slow.  

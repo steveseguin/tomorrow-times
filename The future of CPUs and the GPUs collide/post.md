@@ -1,3 +1,10 @@
+# The future of CPUs and the GPUs collide
+
+*Author: Steve*
+*Published on: 2008-06-21T14:55:00.001-04:00*
+
+---
+
 [![](40.jpg)](http://bp1.blogger.com/_kfv2ADnjgQg/SF1c0n0UpHI/AAAAAAAABKY/tvwHZiAWI1Y/s1600-h/40.jpg)  
 In a computer, we have the Central Processing Unit (CPU) and a Graphics Processing Unit (GPU). The CPU has traditionally been considered the heart of a computer, as it is responsible for running your software's code. The GPU on the other hand has traditionally been used to output to the computer screen what the CPU says to display.  
   

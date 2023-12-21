@@ -1,3 +1,10 @@
+# V Day
+
+*Author: Steve*
+*Published on: 2007-02-01T21:57:00.000-05:00*
+
+---
+
 ![](vday.bmp)[Valentine's Day](http://en.wikipedia.org/wiki/Valentine) is just around the corner everyone. Maybe it would be a good time to start planning something special for it? For those holiday critics or lonesome readers out there, here's some ideas none the less you can try:  
   
 -Hand out *Anti-Valentine's Day Cards* instead to everyone you know.  

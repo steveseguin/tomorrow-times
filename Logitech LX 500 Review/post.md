@@ -1,3 +1,10 @@
+# Logitech LX 500 Review
+
+*Author: Steve*
+*Published on: 2007-08-19T22:03:00.000-04:00*
+
+---
+
 [![](SK-LX500_TN.jpg)](http://bp0.blogger.com/_kfv2ADnjgQg/Rsj8D91bCMI/AAAAAAAAABs/p5RZpIliTUc/s1600-h/SK-LX500_TN.jpg)  
 So after [a recent incident](http://www.youtube.com/watch?v=rP5KpqgNjq4) with my old keyboard involving a kitten and a bottle of diet coke, it was time for a new keyboard. Enter the Logitech LX 500.  
   

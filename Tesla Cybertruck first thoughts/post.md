@@ -1,3 +1,10 @@
+# Tesla Cybertruck; first thoughts
+
+*Author: Steve*
+*Published on: 2019-11-24T11:07:00.002-05:00*
+
+---
+
 
 
 

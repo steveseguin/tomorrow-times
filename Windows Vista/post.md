@@ -1,3 +1,10 @@
+# Windows Vista
+
+*Author: Steve*
+*Published on: 2006-12-11T01:24:00.000-05:00*
+
+---
+
 [![](vista.jpg)](http://bp1.blogger.com/_kfv2ADnjgQg/RXz6076Qn7I/AAAAAAAAAAs/WptWi2j81E0/s1600-h/vista.jpg)  
 Microsoft's next version of Windows, called Windows Vista, will be released to the public next month. The main attraction of Windows Vista for most people will be its looks, thanks to a new graphical interface called 'Aero'. Beauty comes at a price though and with high demands. Not only is the software a bit pricey, but the minimum computer system requirements are steep. Don't expect your three year old laptop to run it.  
   

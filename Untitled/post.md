@@ -1,3 +1,10 @@
+# Untitled
+
+*Author: Steve*
+*Published on: 2007-08-27T18:41:00.000-04:00*
+
+---
+
 [![](Gini_since_WWII.gif)](http://bp2.blogger.com/_kfv2ADnjgQg/RtNTat1bCaI/AAAAAAAAADc/da7zFl3nC8Y/s1600-h/Gini_since_WWII.gif) The above chart is of the Gini Index, from several countries, over the last few decades. The higher the Gini Index value for one country, the *more **inequality*** there is in that country regarding wealth. As in  
   
 [1967](http://en.wikipedia.org/wiki/1967 "1967"): 0.397 (first year reported)  

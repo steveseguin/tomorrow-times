@@ -1,3 +1,10 @@
+# Fashion Forecast Winter/Spring 2007
+
+*Author: Steve*
+*Published on: 2006-12-11T02:41:00.000-05:00*
+
+---
+
 I'll say this once, and only once, but I am not a fashion expert by any means. I'll give this a try though, and hope for some constructive feedback. Oh fashion, where do I begin. Maybe some of you could help me out with tips, or at the very least, letting me know the moment you realize one fashion is catching on, so all you wonderful readers can be an early bird. Particularly, it would be lovely to have hints on current and upcoming mens fashions shared, especially from the female readers. Help us. Please.  
   
 [![](fashion.gif)](http://bp2.blogger.com/_kfv2ADnjgQg/RX0NB76Qn8I/AAAAAAAAAA4/KKtm_K-EZDs/s1600-h/fashion.gif)  

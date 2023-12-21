@@ -1,3 +1,10 @@
+# Is the high definition format war over?
+
+*Author: Steve*
+*Published on: 2007-01-05T05:08:00.000-05:00*
+
+---
+
 ![](http://img134.imageshack.us/img134/9489/untitled2ui1.jpg)  
 With no particular winner, the war as to whether Blu-ray or HD-DVD would prevail as the next optical media format may be essentially over.  
   

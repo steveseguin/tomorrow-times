@@ -1,3 +1,10 @@
+# Contents of the Windows 7 Launch Party pack
+
+*Author: Steve*
+*Published on: 2009-10-09T19:26:00.000-04:00*
+
+---
+
 [![](Untitled.png)](http://2.bp.blogspot.com/_kfv2ADnjgQg/Ss_Nmv6eXxI/AAAAAAAAEtY/tRJSDEhnyq8/s1600-h/Untitled.png)On October 22nd, Microsoft will be launching its newest Windows operating system - Windows 7. To celebrate the event, Microsoft has been providing party packs this week to the thousands of individuals around the world who signed up last month to host a [Windows 7 Launch Party](http://houseparty.com/windows7). These parties will be taking place from October 22nd to October 29th in 12 countries.  
   
 I signed up last month to host a Windows Launch Party and while the idea [seemed a bit hokey at first](http://www.youtube.com/watch?v=9oWWt_L-qeo), I was pretty excited to see that I was selected as a finalist party host; not everyone got accepted it seems. So yes, later this month I will be throwing a Windows 7 Launch Party and although most of my guests had never heard of Windows 7 before, they all seem excited about the getting trashed part at least. Should be fun.  

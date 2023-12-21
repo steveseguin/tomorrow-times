@@ -1,3 +1,10 @@
+# Bill Gates to appear on The Daily Show!
+
+*Author: Steve*
+*Published on: 2007-01-26T20:12:00.000-05:00*
+
+---
+
 [![](bill-gates-mugshot.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/RbqnqleByhI/AAAAAAAAAH0/Owhwv9aLi8U/s1600-h/bill-gates-mugshot.jpg)  
 A bit of up and coming TV that simply cannot be missed,  
   

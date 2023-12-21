@@ -1,3 +1,10 @@
+# How to find & download hard-to-find music
+
+*Author: Steve*
+*Published on: 2008-06-27T21:41:00.000-04:00*
+
+---
+
 [![](RockBand-4-1.jpg)](http://bp3.blogger.com/_kfv2ADnjgQg/SGWjbNPsmrI/AAAAAAAABKo/fyJ15c05N7M/s1600-h/RockBand-4-1.jpg)  
 How many versions of the song 'Blue Moon' have you heard of in your life? A few at least, I'm sure. After being asked from a friend to find them *a particular* cover of that song from the mid 1950's, and who didn't know who covered it, I decided to write up this tutorial.  
   

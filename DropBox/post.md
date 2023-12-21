@@ -1,3 +1,10 @@
+# DropBox
+
+*Author: Steve*
+*Published on: 2008-07-11T16:00:00.000-04:00*
+
+---
+
   
  [![](splash_play.jpg)](http://getdropbox.com/u/2/beta/screencast.html)   
   <br /> Event.observe(window, 'load', function() {<br /> $('scast').innerHTML = '<embed src="flvplayer.swf" width="400" height="314"></embed>';<br /> });<br />   

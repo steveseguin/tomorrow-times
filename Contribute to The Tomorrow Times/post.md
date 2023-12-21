@@ -1,3 +1,10 @@
+# Contribute to The Tomorrow Times
+
+*Author: Steve*
+*Published on: 2007-01-03T04:09:00.000-05:00*
+
+---
+
 I'm looking for a few interesting people with a talent for journalism to help me out with this site for the new year. It is simply growing much too fast for me to keep up with alone.  
   
 If you have a keen and insightful eye for cultural and social trends, that would be especially welcomed. I hope you can understand that there is not really any money to be made through helping me out, as this site doesn't really make any substantial profits. However, The Tomorrow Times does get thousands of visitors a week and is still rapidly growing, making it a great way to improve and show off your writing skills.  

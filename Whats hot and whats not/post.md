@@ -1,3 +1,10 @@
+# What's hot and what's not
+
+*Author: Steve*
+*Published on: 2007-01-05T00:58:00.000-05:00*
+
+---
+
 Introducting a new weekly addition to The Tomorrow Times  
 **Based on the trends from popular search queries of Google.**  
   

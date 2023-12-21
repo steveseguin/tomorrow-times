@@ -1,3 +1,10 @@
+# Top 10 Future Energy Solutions
+
+*Author: Steve*
+*Published on: 2006-12-16T18:34:00.000-05:00*
+
+---
+
 [![](snpp.gif)](http://bp3.blogger.com/_kfv2ADnjgQg/RYSEqR6ghFI/AAAAAAAAAEQ/PvEopWYcXrg/s1600-h/snpp.gif)  
 1 - Artificial Photosynthesis2 - Clean Coal3 - Wind Power4 - Nuclear Power (Thorium)  
 5 - Solar Thermal6 - Wave Power7 - Geothermal Energy8 - Gratzel Solar Cells9 - Pervasive Solar Photovoltaics10 - Hydrogen  

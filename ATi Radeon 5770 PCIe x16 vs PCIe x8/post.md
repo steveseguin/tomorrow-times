@@ -1,3 +1,10 @@
+# ATi Radeon 5770: PCIe x16 vs PCIe x8
+
+*Author: Steve*
+*Published on: 2010-03-23T16:21:00.000-04:00*
+
+---
+
 [![](http://www.amd.com/PublishingImages/Restricted/Photograph_ProductShots//242GIF/ATrHD5770_242x193.gif)](http://www.amd.com/PublishingImages/Restricted/Photograph_ProductShots//242GIF/ATrHD5770_242x193.gif)  
 In this article I will reveal the differences one should expect from running an ATi Radeon HD 5770 1GB graphics card at full and half PCIe 2.0 bandwidth.  
   

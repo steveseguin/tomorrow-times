@@ -1,3 +1,10 @@
+# Review: Lenovo S10
+
+*Author: Steve*
+*Published on: 2009-03-17T19:39:00.000-04:00*
+
+---
+
 Here is my initial review of the Lenovo IdeaPad S10 netbook\* that I recently bought and had the day to play around with.  
 [![](3671171.jpg)](http://4.bp.blogspot.com/_kfv2ADnjgQg/ScEz0S6HXgI/AAAAAAAADx0/h-Cx3qxnhHk/s1600-h/3671171.jpg)  
 System Specifications:  

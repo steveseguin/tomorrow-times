@@ -1,3 +1,10 @@
+# Cloned meat
+
+*Author: Steve*
+*Published on: 2007-01-03T02:07:00.000-05:00*
+
+---
+
 [![](HeadlessCowTh.jpg)](http://bp1.blogger.com/_kfv2ADnjgQg/RZtcFOvYGLI/AAAAAAAAAEc/wATHPoilYHM/s1600-h/HeadlessCowTh.jpg)  
 The sale of meat and milk from cloned animals moved a step closer the other day after the US Government (FDA) ruled that the products were safe to eat and could be sold in supermarkets without labelling.  
   

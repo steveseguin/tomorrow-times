@@ -1,3 +1,10 @@
+# Exploration: Reversing compression
+
+*Author: Steve*
+*Published on: 2017-11-13T01:57:00.001-05:00*
+
+---
+
 
   
 

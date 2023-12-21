@@ -1,3 +1,10 @@
+# Courts Can Access Private Facebook Profiles
+
+*Author: Steve*
+*Published on: 2009-03-04T18:33:00.000-05:00*
+
+---
+
 [![](facebook_pic.jpg)](facebook_pic.jpg)The use of Facebook in the courtroom is a hot, topical issue that is currently generating a lot of buzz among lawyers. In Canada, private Facebook profiles can now be ordered to be produced in court for use in personal injury insurance litigation.   
   
 OH noes! Your insurance company is taking you to court over your disability claim and you got to pretend now that you're actually sick. No worries, just walk with a limp for the rest of the week and yelp in pain when anyone touches you - easy.. right? Well, not so fast...  

@@ -1,3 +1,10 @@
+# Lenovo ThinkPad T400: Recovery Tools
+
+*Author: Steve*
+*Published on: 2008-12-12T16:07:00.000-05:00*
+
+---
+
 So I did receive my Thinkpad T400 in the mail about a week ago now; I ordered it on the 24th of November and had it delivered by the first week of December. Overall, the delivery times were good and Lenovo did not make we wait in queue when I called them about a tracking number. My order spent nearly a week in customs though, which is not really a fault Lenovo can be blamed for. Overall, my experience was acceptable and I would order from them again.  
   
 Finishing off my last post, the bluetooth Laser mouse I gave a preview of previously works fine with the notebook. With the press of a button, it only took a few seconds for the T400 to detect it and have it start working. It does work on carpet, although the carpet moves with the mouse, which causes it not to be very accurate. The mouse goes into sleep mode after a while, which takes a couple seconds to come out of when moved, but it hasnt annoyed me yet. It works like a mouse; 800 dpi I think, and the mouse/bluetooth works out-of-the-box with MacOSx86. No problems.  

@@ -1,3 +1,10 @@
+# working bioshock crack
+
+*Author: Steve*
+*Published on: 2007-08-26T16:56:00.000-04:00*
+
+---
+
 **update:: okay, so i lied. the paul.dll i do not have yet cracked... yet. i just wanted to join in on all the cracking fun. stupid CS.RIN.RU and demoniod.com won't let me register to join their fun. so im just having my own fun here.   
   
 the progress i have made so far has been interesting though, im taking a slightly different route than i was yesterday when i started this attempt. if anyone has their matching unlock code and unlock requestcode that they used to activate their game via manual activation, i would love to have a copy of that. i think i can crack it with that info. if you have a memory dump also, @ the manual activation screen like below, i would also love to have that.**  

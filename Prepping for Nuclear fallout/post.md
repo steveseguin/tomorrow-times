@@ -1,3 +1,10 @@
+# Prepping for Nuclear fallout
+
+*Author: Steve*
+*Published on: 2023-07-15T00:50:00.021-04:00*
+
+---
+
 ## In the case of nuclear war or a nuclear explosion/meltdown, there becomes a risk to your health, if not your life. We take for granted this time of peace, where nuclear threats are more of a trope than a real fear, but it's a significant threat in reality. People didn't consider a global pandemic as likely either, and then it happened.
 
   
