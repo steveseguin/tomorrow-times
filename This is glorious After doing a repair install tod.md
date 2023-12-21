@@ -1,1 +1,0 @@
-This is glorious. After doing a repair install today, I installed service pack 2 before I even setup my internet connection. Windows said I had 3 days to activate, then when I rebooted, it gave me the activate now error message. This trick let me hack around the system to setup my connection so it could activate. Thank you.

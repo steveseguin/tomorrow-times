@@ -1,1 +1,0 @@
-wow man, i know its old but this saved me alot of trouble, before i found this i was about to restore but now i just opened explorer and cracked my activation using some torrents i found :)

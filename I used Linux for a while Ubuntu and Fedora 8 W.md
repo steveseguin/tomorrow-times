@@ -1,9 +1,0 @@
-I used Linux for a while (Ubuntu, and Fedora 8). While they are very fast, and have similar programs (if not better) to replace most of the ones I used before (Ardour, OpenOffice, GAIM, etc), it has inferior hardware support, and there are lots of little annoying bugs, particulally in Fedora 8. For example, when I try to install Synaptics, it complains about packages missing. Why can't yum just download them, or can't they be included in the distro/software.  
-Also, although Linux doesnt crash as much, when it does, it doesnt recover as well.  
-I suspended my system, and it wouldnt resume (Linux doesnt seem to like my APM, whereas windows and my home-made DSP operating system both work fine wih it), and when I rebooted, GNOME wouldn't work. I can use KDE effectively, but I prefer GNOME.  
-I also keep getting access denied messages, when I try to mount or write to my FAT partitions, with no hint in the documentation as to resolving these (besides using 'root' as a user account).  
-As for removing the WGA and activation stuff from XP, theres a few DLLs you can replace with dummies, and a few registry entries to delete, then you can just log-on normally, as if it had been activated.  
-I found this, as I tried to activate, and couldn't get through to the MS servers (tried via broadband and dialup), so I ran a linux boot CD with NTFS support and a text web-browser, got instructions for WGA removal off the net, and applied them.  
-Works a treat.  
-  
-Incidentally, I'm soon to be moving over to a mac though - its got the performance and robustness of Linux (both based on Unix), but with extensive beta testing too - so less annoying little bugs and inconveniances.

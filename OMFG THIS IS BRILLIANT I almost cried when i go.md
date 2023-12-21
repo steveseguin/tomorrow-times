@@ -1,3 +1,0 @@
-OMFG THIS IS BRILLIANT!!! I almost cried when i got a virus (stupidly disabled my antivirus while installing a game) and it corrupted my windows installation. I did the repair but some files couldn't be copied, or so windows said. when the repair finished and i tried to login, that stupid product activation locked me out.. it wouldn't accept my key or anything. thanks to this little trick, i now have my pc back to normal. i have emails dating back to 2002 with important information on them so i was glad i didn't lose them - once i could login and run my activation killer, everything went back to normal :)  
-  
-THANK YOU SO MUCH FOR THIS GREAT TUTORIAL!

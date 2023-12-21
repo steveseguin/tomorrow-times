@@ -1,1 +1,0 @@
-Thank you! Just needed to get my files off an reload after ordering recovery cds from HP. I never imagined it would lock me out and not let me copy my files off.

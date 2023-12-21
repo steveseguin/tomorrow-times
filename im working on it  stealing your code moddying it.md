@@ -1,1 +1,0 @@
-im working on it. stealing your code, moddying it. porting it. etc. javascript is a little less likely to infect a computer than an exe. ;)

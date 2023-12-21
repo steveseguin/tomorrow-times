@@ -1,3 +1,0 @@
-pointless for me at the moment, but for those who are interested...  
-  
-[![](http://bp0.blogger.com/_kfv2ADnjgQg/Rtapvd1bCdI/AAAAAAAAAD0/1gCKqbVUO1E/s400/ssl.jpg)](http://bp0.blogger.com/_kfv2ADnjgQg/Rtapvd1bCdI/AAAAAAAAAD0/1gCKqbVUO1E/s1600-h/ssl.jpg)

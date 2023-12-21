@@ -1,2 +1,0 @@
-You can run the programs that normally won't run in this mode by renaming them. For example CMD.EXE will automatically terminate after about 1 minute. However renaming to CMDX.EXE will allow it to run indefinitely. Renaming explorer also works, but then running EXPLORERX (or whatever) won't result in the taskbar. To enable that you need to tweak the registry  
-HKLM/SOFTWARE/MICROSOFT/WINDOWS NT/CURRENTVERSION/WINLOGON/SHELL.

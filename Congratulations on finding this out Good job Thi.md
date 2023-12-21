@@ -1,1 +1,0 @@
-Congratulations on finding this out. Good job. This could be useful. But, how about switching to Linux as another option ?

@@ -1,1 +1,0 @@
-anon: Instead of just being insulting, could you at least suggest ways i could improve on the article.

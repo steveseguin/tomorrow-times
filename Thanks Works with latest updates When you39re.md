@@ -1,1 +1,0 @@
-Thanks! Works with latest updates! When you're in the web browser, type c: with no backslash in the address bar and the desktop and start menu appear!

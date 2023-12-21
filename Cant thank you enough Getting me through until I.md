@@ -1,1 +1,0 @@
-Can't thank you enough. Getting me through until I can find out why when I attempt to activate I'm getting an "already activated" message. This is on a re-install of XP Pro. Any ideas on this would be appreciated.

@@ -1,1 +1,0 @@
-THANK YOU SO MUCH!! I brought my computer secondhand over the net and he had put windows on it but I wasn't sure if it was copied or not. Thank god this helped me (without any corruption) to get a years worth of work back!

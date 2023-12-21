@@ -1,1 +1,0 @@
-the os you USE is not letting you in, you dont know linux off hand or have any distros, yea ... lets use linux because it will make everything so much easier at the moment

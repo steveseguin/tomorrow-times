@@ -1,1 +1,0 @@
-I think that Ctrl-Esc is the equivilant of the Windows key.

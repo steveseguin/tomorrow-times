@@ -1,1 +1,0 @@
-great article, very informative, i was wondering if 8x made a difference. Do you have an example of 16x/4x? The 16x/8x board is about $50 more than the 16x/4x board.

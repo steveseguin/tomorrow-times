@@ -1,1 +1,0 @@
-Brendan: Learn the difference between race and religion.

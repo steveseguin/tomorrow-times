@@ -1,1 +1,0 @@
-who said anything about linux? bunch of freakin fan boys...thats the digg effect for you

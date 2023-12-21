@@ -1,1 +1,0 @@
-Works on Windows Vista Business

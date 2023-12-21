@@ -1,1 +1,0 @@
-YOU ARE THE GOD

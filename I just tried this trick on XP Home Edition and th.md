@@ -1,1 +1,0 @@
-I just tried this trick on XP Home Edition, and the link is not active... nothing happens.

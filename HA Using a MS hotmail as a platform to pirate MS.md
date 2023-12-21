@@ -1,1 +1,0 @@
-HA! Using a MS hotmail as a platform to pirate MS Software is pure GENIUS. I'm not buying more than 1 copy of windows for all the computers only I use. Linux sucks. Get a Mac. And pirate windows when you need fancy spreadsheets.

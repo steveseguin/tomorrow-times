@@ -1,1 +1,0 @@
-Is It Necessary To Validate Window 7 Ultimate Which Is Already Activated

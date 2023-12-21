@@ -1,1 +1,0 @@
-all you have to do is very simple delet the hldr file from system loaded drive ie, c:\. by booting into other drive having 2nd operating system say f:\. this works 100% next you boot with the troubled operating system very easily. try it.

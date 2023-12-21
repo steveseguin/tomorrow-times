@@ -1,5 +1,0 @@
-I have been re-installing Windows XP every 30 days for the past few years. Its only a 2 hours reinstallation procedure every 30 days and it keeps me from shelling out \*ANOTHER\* $149.99 of my hard earned cash as Microsoft refuses to let me use my purchased XP after a Motherboard+VideoCard+Wifi+Hard drive upgrade at once.  
-  
-Plus, you will not lose your files if you do a re-install, just dont reformat, leave file system intact, then install XP in a different folder, once done, delete manually the old windows directory and then go do c:\documents and settings\your\_old\_user\_name\ to retrive your old files back and move them over to your new user profile.  
-  
-I think I will be retiring soon this copy of Windows XP and will be installing Ubuntu as soon as XP expires on me this one last time, I would not have to deal with this again.

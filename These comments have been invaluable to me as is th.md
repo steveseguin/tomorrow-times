@@ -1,1 +1,0 @@
-These comments have been invaluable to me as is this whole site. I thank you for your comment.

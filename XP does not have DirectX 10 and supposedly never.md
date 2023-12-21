@@ -1,1 +1,0 @@
-XP does not have DirectX 10, and supposedly never will. For gamers, this is definite reason to switch.

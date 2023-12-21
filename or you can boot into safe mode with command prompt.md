@@ -1,1 +1,0 @@
-or you can boot into safe mode with command prompt, go to c:\windows\ and type 'explorer'.

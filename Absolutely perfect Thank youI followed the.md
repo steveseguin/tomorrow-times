@@ -1,3 +1,0 @@
-Absolutely perfect! Thank you!!!!!  
-  
-I followed the various steps as described to get on-line. After getting onto the MS web site listed above, I managed to go to my C drive, then control panel and uninstall sp3. The uninstall took quite a while - be patient. Once finished, the ctr got stuck and I needed to re-booted. And voila! My ctr was funtional again with sp2 still installed. What a blessing! THE MOST PERFECT SOLUTION!!!!

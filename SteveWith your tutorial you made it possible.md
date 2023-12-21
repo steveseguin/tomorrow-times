@@ -1,3 +1,0 @@
-Steve...  
-  
-With your tutorial you made it possible for me to get some files for a task that literally meant me my matric certificate! Dewd, if you didn't post this, I would've failed. Thanks. :D

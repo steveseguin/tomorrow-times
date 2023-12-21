@@ -1,1 +1,0 @@
-I own a game-ing pc so this did help to certain degree and the internet is plugged in to a pci and you can only connect from the program itself, so I guess I'll just have to phone the microsoft people, I hate them.

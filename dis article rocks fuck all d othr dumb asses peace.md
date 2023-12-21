@@ -1,1 +1,0 @@
-dis article rocks! fuck all d othr dumb asses. peace

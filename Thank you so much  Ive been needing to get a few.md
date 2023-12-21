@@ -1,1 +1,0 @@
-Thank you so much! I've been needing to get a few files off of my laptop, but I didn't do it before my Windows locked up on me. Now I can finally get them. Thanks again!

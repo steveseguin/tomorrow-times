@@ -1,1 +1,0 @@
-lol. not my call really, i just cut and pasted the list from edge102. they called those songs 'groundbreaking'. :S feel free to . uh. share your own opinion on what would be better.

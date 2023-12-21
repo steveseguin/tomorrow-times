@@ -1,1 +1,0 @@
-Some of programms don't open by twice clicking on exe icon, such as RevConnect. Those programms can be opened by pushing "Run as..."

@@ -1,1 +1,0 @@
-What do I do when I have activated my windows and I still get locked ou of windows? I have activaed it when it had 5days left and it still kept on counting down on the start page inside windows everything is fine and when i tell it to activate windows it tells me windows has already been activated. Can anyone please help me. It is a original copy with a valid licensed key.

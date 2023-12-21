@@ -1,1 +1,0 @@
-it has been fixed on windows xp sp3 as far as i can tell. i found a link but nothing happened when i clicked on it.

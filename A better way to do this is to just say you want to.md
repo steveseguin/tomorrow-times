@@ -1,1 +1,0 @@
-A better way to do this is to just say you want to activate windows over the internet, after that if your product key is incorrect they will give you a link to their website for help. click on the link and BAM you've got a windows internet explorer window opened. from there you can access your desktop and do anything you want.

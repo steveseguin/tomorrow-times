@@ -1,1 +1,0 @@
-If you had firefox open it and dispose somthing and click go to containing folder it will start explorer.exe showing the desktop then open taskmanager.... Then u can do anything

@@ -1,1 +1,0 @@
-Totally awesome. Upgraded my test Windows 2003 machines to R2 and activation freaked out. Your tip saved the day.

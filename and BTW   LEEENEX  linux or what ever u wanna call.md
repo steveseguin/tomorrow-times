@@ -1,1 +1,0 @@
-and BTW LEEENEX linux or what ever u wanna call it, should be ILLEGAL. WHY? why the hell not. its wanna be windows incomplete.

@@ -1,1 +1,0 @@
-Thanks a lot! This tip 'rescued my life'

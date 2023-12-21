@@ -1,2 +1,0 @@
-kittens are cute.  
-permakittens!!
